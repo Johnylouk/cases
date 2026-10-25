@@ -1,0 +1,1828 @@
+Volatility 3 Framework 2.28.2
+
+Offset	Name
+
+0x1e6b0e8	\browser
+0x1e6b180	\browser
+0x1e6cd08	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\reflow.api
+0x1e6d028	\Endpoint
+0x1e6d0d8	\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_002_
+0x1e6d308	\Endpoint
+0x1e6d3f0	\WINDOWS\system32\hnetwiz.dll
+0x1e6e780	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\HyperTerminal.lnk
+0x1e6ea40	\WINDOWS\system32\calc.exe
+0x1e6ee50	\Documents and Settings\Administrator\Application Data\Adobe\Acrobat\6.0\Updater\udstore.js
+0x1e6f028	\WINDOWS\system32\riched20.dll
+0x1e6f2d8	\Documents and Settings\Administrator\Application Data\AdobeUM
+0x1e70890	\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Spades.lnk
+0x1e723d8	\$Directory
+0x1e72cb0	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\EWH32.api
+0x1e72d48	\Program Files\Adobe\Acrobat 6.0\Resource\Font\ZY______.PFB
+0x1e73d30	\WINDOWS\WindowsUpdate.log
+0x1e73dc8	\Documents and Settings\All Users\Start Menu\Programs\Accessories\desktop.ini
+0x1e73e60	\WINDOWS\WindowsUpdate.log
+0x1e73ef8	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\GbDetect.dll
+0x1e73f90	\WINDOWS\Prefetch\REGSVR32.EXE-25EEFE2F.pf
+0x1e742c8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\tr_23[2].js
+0x1e74a48	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Accessibility.api
+0x1e74bc8	\Documents and Settings\NetworkService\Cookies\index.dat
+0x1e74ca0	\Documents and Settings\Administrator\Application Data\Microsoft\CryptnetUrlCache\MetaData\74BFD122C0875EC75DBE5C6DB4C59019
+0x1e74ed0	\WINDOWS\system32\winmine.exe
+0x1e75028	\Endpoint
+0x1e756a8	\$Directory
+0x1e75f90	\Program Files\Mozilla Firefox\components\nsBrowserGlue.js
+0x1e76028	\Program Files\Outlook Express\wab.exe
+0x1e76278	\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\Abcpy.ini
+0x1e764c8	\Program Files\Adobe\Acrobat 6.0\Resource\Font
+0x1e76740	\Documents and Settings\All Users\Start Menu\Set Program Access and Defaults.lnk
+0x1e76858	\Program Files\Mozilla Firefox\components\xpinstal.dll
+0x1e76978	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olyrbtn_2010[1].gif
+0x1e78028	\Program Files\Mozilla Firefox\components\browser.xpt
+0x1e783f8	\$Directory
+0x1e79028	\Program Files\Adobe\Acrobat 6.0\Reader\OPP.dll
+0x1e790e0	\Endpoint
+0x1e79c28	\Program Files\Mozilla Firefox\res\html\gopher-unknown.gif
+0x1e79cc0	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\pdf.ocx
+0x1e7a028	\WINDOWS\system32\mobsync.exe
+0x1e7a7c0	\Documents and Settings\Administrator\My Documents\My Music\Desktop.ini
+0x1e7a8d8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\urchin[1].js
+0x1e7bda8	\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\SY______.PFM
+0x1e7be40	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\AcroForm.api
+0x1e7c960	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\plds4.dll
+0x1e7cc78	\$Directory
+0x1e7d248	\Program Files\Mozilla Firefox\searchplugins\yahoo.gif
+0x1e7d688	\WINDOWS\system32\sysmon.ocx
+0x1e7e028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\security[1].gif
+0x1e7e940	\WINDOWS\system32\stdole32.tlb
+0x1e7f028	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\OLS\Locale\ENU\description.xml
+0x1e80028	\Program Files\Mozilla Firefox\res\loading-image.gif
+0x1e807b8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Updater.api
+0x1e80850	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Soap.api
+0x1e80f68	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\eBook04.html
+0x1e81540	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Paint.lnk
+0x1e816e8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1e81868	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1e81cf8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x1e82288	\$Directory
+0x1e82b10	\WINDOWS\system32\lowsec\user.ds.lll
+0x1e82e60	\Program Files\Mozilla Firefox\components\nsSidebar.js
+0x1e83028	\lsass
+0x1e830c8	\WINDOWS\system32\atmlib.dll
+0x1e831d8	\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-BoldOblique.otf
+0x1e832d8	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\OBJECTS.MAP
+0x1e83630	\Program Files\Mozilla Firefox\res\quirk.css
+0x1e83a68	\WINDOWS\WindowsUpdate.log
+0x1e83b38	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\MAPPING2.MAP
+0x1e83bd0	\WINDOWS\WindowsUpdate.log
+0x1e83d28	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\OBJECTS.DATA
+0x1e83dc8	\lsarpc
+0x1e83f28	\WINDOWS\system32\wzcdlg.dll
+0x1e85028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\upsell_bg_2010[1].jpg
+0x1e851c8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\PictureTasks.api
+0x1e85348	\WINDOWS\WindowsUpdate.log
+0x1e85620	\WINDOWS\WindowsUpdate.log
+0x1e85f90	\WINDOWS\WindowsUpdate.log
+0x1e862a8	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Sign.html
+0x1e864e0	\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\aform.js
+0x1e86938	\WINDOWS\WindowsUpdate.log
+0x1e86d78	\WINDOWS\WindowsUpdate.log
+0x1e87f28	\$Directory
+0x1e88458	\$Directory
+0x1e888a8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\hp_1[1].css
+0x1e88a50	\WINDOWS\WindowsUpdate.log
+0x1e88b88	\Program Files\Mozilla Firefox\searchplugins\google.old
+0x1e89308	\WINDOWS\system32\dxtrans.dll
+0x1e893a0	\Program Files\Mozilla Firefox\res\hiddenWindow.html
+0x1e89970	\WINDOWS\system32
+0x1e89e58	\WINDOWS\WindowsUpdate.log
+0x1e8a8e0	\Program Files\Mozilla Firefox\chrome\en-US.manifest
+0x1e8aad8	\lsarpc
+0x1e8ab70	\Documents and Settings\All Users\Start Menu\desktop.ini
+0x1e8ac70	\Program Files\MSN Gaming Zone\Windows\bckgzm.exe
+0x1e8ae58	\WINDOWS\WindowsUpdate.log
+0x1e8b260	\Program Files\MSN Gaming Zone\Windows\Rvsezm.exe
+0x1e8b438	\WINDOWS\WindowsUpdate.log
+0x1e8b6f0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1e8b978	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1e8c460	\WINDOWS\WindowsUpdate.log
+0x1e8c598	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\INDEX.BTR
+0x1e8c738	\Program Files\Mozilla Firefox\firefox.exe
+0x1e8c850	\Program Files\Adobe\Acrobat 6.0\Reader\SPPlugins\ADMPlugin.apl
+0x1e8c8e8	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr107.tmp
+0x1e8c9a8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\EScript.api
+0x1e8cf90	\WINDOWS\system32\msimsg.dll
+0x1e8d9d0	\WINDOWS\system32\msihnd.dll
+0x1e8de48	\WINDOWS\Fonts\verdana.ttf
+0x1e8f028	\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x1e8f780	\Program Files\Mozilla Firefox\components\nsBrowserContentHandler.js
+0x1e8f8c0	\WINDOWS\system32\rasapi32.dll
+0x1e90028	\lsass
+0x1e90650	\WINDOWS\system32\ws2help.dll
+0x1e90778	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\ovr_57[2].css
+0x1e91028	\lsass
+0x1e91238	\ROUTER
+0x1e912d0	\WINDOWS\system32\ntlsapi.dll
+0x1e91700	\Program Files\Mozilla Firefox\updater.ini
+0x1e919a8	\WINDOWS\system32\wups.dll
+0x1e92d18	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\bullet_blue[1].jpg
+0x1e933d8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\program[1].css
+0x1e93520	\Documents and Settings\All Users\Start Menu\Programs\Mozilla Firefox\Mozilla Firefox.lnk
+0x1e935b8	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Services.lnk
+0x1e93818	\WINDOWS\system32\TPVMW32.dll
+0x1e93970	\WINDOWS\system32\drivers\kmixer.sys
+0x1e94028	\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x1e94278	\Documents and Settings\Administrator\Local Settings\Application Data\VMware\hgfs.dat
+0x1e94348	\WINDOWS\system32\winhttp.dll
+0x1e95028	\WINDOWS\system32\kmddsp.tsp
+0x1e95398	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\00F3AAQI\desktop.ini
+0x1e95918	\WINDOWS\system32\rasadhlp.dll
+0x1e95e60	\WINDOWS\WindowsUpdate.log
+0x1e95e60	\WINDOWS\WindowsUpdate.log
+0x1e97028	\WINDOWS\system32\dciman32.dll
+0x1e97490	\WINDOWS\system32\mycomput.dll
+0x1e976d0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\CAKLUB41.HTM
+0x1e97bd0	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\desktop.ini
+0x1e97ce8	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\2XI9S3KX\desktop.ini
+0x1e97f68	\WINDOWS\system32\inetcfg.dll
+0x1e989b8	\WINDOWS\WindowsUpdate.log
+0x1e98c60	\WINDOWS\Fonts\georgiai.ttf
+0x1e98e70	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[7]
+0x1e991c0	\WINDOWS\system32\svchost.exe
+0x1e99258	\WINDOWS\system32\h323log.txt
+0x1e99360	\WINDOWS\system32\h323.tsp
+0x1e99600	\WINDOWS\system32\tprdpw32.dll
+0x1e99a10	\WINDOWS\WindowsUpdate.log
+0x1e99c00	\WINDOWS\system32\msls31.dll
+0x1e99d18	\WINDOWS\system32\mshtml.dll
+0x1e9a2e0	\Documents and Settings\Administrator\Start Menu\Programs\Remote Assistance.lnk
+0x1e9a610	\WINDOWS\system32\ndptsp.tsp
+0x1e9a880	\WINDOWS\WinSxS\Manifests\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9.Manifest
+0x1e9a918	\WINDOWS\system32\ddrawex.dll
+0x1e9aa08	\$Directory
+0x1e9aaa0	\Documents and Settings\All Users\Start Menu\Programs\Windows Movie Maker.lnk
+0x1e9ad18	\WINDOWS\system32\shimeng.dll
+0x1e9adb0	\Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Administrator.bmp
+0x1e9b028	\Documents and Settings\LocalService\Cookies\index.dat
+0x1e9b178	\WINDOWS\Fonts\arialbd.ttf
+0x1e9b638	\WINDOWS\system32\ipconf.tsp
+0x1e9bd18	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[6]
+0x1e9c5f0	\WINDOWS\SoftwareDistribution\DataStore\Logs\edb.log
+0x1e9dac8	\Documents and Settings\All Users\Start Menu\Programs\Adobe Reader 6.0.lnk
+0x1e9e670	\WINDOWS\system32\msvfw32.dll
+0x1e9e918	\net\NtControlPipe13
+0x1e9e9b0	\WINDOWS\system32\usp10.dll
+0x1e9ec30	\Documents and Settings\Administrator\My Documents\My Pictures\Desktop.ini
+0x1e9ee60	\WINDOWS\system32\jscript.dll
+0x1e9f360	\Program Files\MSN Gaming Zone\Windows\hrtzzm.exe
+0x1e9f4f8	\$Directory
+0x1e9fe88	\WINDOWS\system32
+0x1ea0028	\WINDOWS\system32\drivers\etc\hosts
+0x1ea0318	\WINDOWS\system32\Macromed\Flash\flash.ocx
+0x1ea06f0	\WINDOWS\Fonts\comic.ttf
+0x1ea0788	\WINDOWS\Fonts\palab.ttf
+0x1ea0f28	\WINDOWS\Fonts\palai.ttf
+0x1ea1370	\WINDOWS\system32\mstsc.exe
+0x1ea18a0	\Program Files\MSN Gaming Zone\Windows\shvlzm.exe
+0x1ea1c38	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\MakeAccessible.api
+0x1ea2090	\WINDOWS\Fonts\gautami.ttf
+0x1ea2388	\WINDOWS\Prefetch\SVCHOST.EXE-3530F672.pf
+0x1ea2d38	\Documents and Settings\All Users\Start Menu
+0x1ea3190	\WINDOWS\system32\wuaucpl.cpl
+0x1ea3b38	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ea3e40	\Program Files\Mozilla Firefox\install_wizard.log
+0x1ea40a8	\WINDOWS\system32\wuaucpl.cpl
+0x1ea42b8	\WINDOWS\Temp\Perflib_Perfdata_65c.dat
+0x1ea4770	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\desktop.ini
+0x1ea4a20	\WINDOWS\WindowsUpdate.log
+0x1ea4ab8	\WINDOWS\system32\browselc.dll
+0x1ea4f90	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Activate Windows.lnk
+0x1ea50e0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\Sound Recorder.lnk
+0x1ea5368	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ea5f90	\Program Files\Mozilla Firefox\res\table-add-column-before-active.gif
+0x1ea6308	\Documents and Settings\Administrator\Recent\Desktop.ini
+0x1ea6740	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ea6c40	\Documents and Settings\Administrator
+0x1ea7028	\WINDOWS\system32\drprov.dll
+0x1ea7218	\WINDOWS\WindowsUpdate.log
+0x1ea7980	\WINDOWS\system32\rcbdyctl.dll
+0x1ea7c00	\lsarpc
+0x1ea7d18	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Component Services.lnk
+0x1ea7db0	\WINDOWS\WindowsUpdate.log
+0x1ea7ef8	\wkssvc
+0x1ea8070	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303
+0x1ea8440	\WINDOWS\system32
+0x1ea86f8	\$Directory
+0x1ea8df0	\$Directory
+0x1ea9028	\Program Files\VMware\VMware Tools\VMwareTray.exe
+0x1eaa038	\$Directory
+0x1eaa2c8	\Documents and Settings\All Users\Desktop
+0x1eaa6a0	\$Directory
+0x1eaac08	\Documents and Settings\Administrator\NetHood
+0x1eaaf90	\$Directory
+0x1eab228	\$Directory
+0x1eab2c0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+0x1eabbd0	\Program Files\Mozilla Firefox\chrome\reporter.manifest
+0x1eae700	\$Directory
+0x1eae800	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1eae9e0	\net\NtControlPipe13
+0x1eaf180	\Documents and Settings\Administrator\PrintHood
+0x1eaf5a0	\WINDOWS\WindowsUpdate.log
+0x1eafa40	\WINDOWS\WindowsUpdate.log
+0x1eb00c0	\$Directory
+0x1eb0180	\WINDOWS\system32\wshext.dll
+0x1eb0288	\WINDOWS\system32\usmt\migwiz.exe
+0x1eb0c48	\WINDOWS\SoftwareDistribution\DataStore\DataStore.edb
+0x1eb1228	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Files and Settings Transfer Wizard.lnk
+0x1eb1aa0	\ROUTER
+0x1eb2028	\WINDOWS\system32\sensapi.dll
+0x1eb22a0	\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.2180_x-ww_522f9f82
+0x1eb2518	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Security Center.lnk
+0x1eb25b0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\System Information.lnk
+0x1eb2bd0	\Program Files\Mozilla Firefox\defaults\pref\channel-prefs.js
+0x1eb2e60	\Documents and Settings\Administrator\Start Menu\Programs\Internet Explorer.lnk
+0x1eb3788	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Review18.html
+0x1eb38c0	\$Directory
+0x1eb3988	\$Directory
+0x1eb3cd0	\Documents and Settings\All Users\Start Menu\Windows Catalog.lnk
+0x1eb4aa8	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\MAPPING1.MAP
+0x1eb4b40	\WINDOWS\system32\msiexec.exe
+0x1eb4e78	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[4]
+0x1eb5298	\Program Files\Mozilla Firefox\defaults\profile\prefs.jsw
+0x1eb5b90	\$Directory
+0x1eb5c60	\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_001_
+0x1eb5d18	\Documents and Settings\All Users\Start Menu\Programs\Games\Spider Solitaire.lnk
+0x1eb6028	\WINDOWS\system32\cryptnet.dll
+0x1eb6578	\Program Files\MSN\MSNCoreFiles\Install\msnms.ico
+0x1eb6610	\Documents and Settings\Administrator\Start Menu\Programs\desktop.ini
+0x1eb6e00	\WINDOWS\Fonts\sylfaen.ttf
+0x1eb6f90	\WINDOWS\Fonts\tunga.ttf
+0x1eb76e8	\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd.otf
+0x1eb7990	\WINDOWS\Fonts\georgia.ttf
+0x1eb9028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\kvwrap[1].png
+0x1ebb028	\WINDOWS\WindowsUpdate.log
+0x1ebb100	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olympics10-bg[1].jpg
+0x1ebb630	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\1WBGD152\desktop.ini
+0x1ebb790	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\enterprise[1].gif
+0x1ebbcc8	\WINDOWS\system32\catsrvut.dll
+0x1ebc9f0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\abg-en-100c-000000[1].png
+0x1ebcde0	\Program Files\Mozilla Firefox\plds4.dll
+0x1ebce78	\Program Files\Mozilla Firefox\res\entityTables\htmlEntityVersions.properties
+0x1ebd028	\Program Files\Mozilla Firefox\nss3.dll
+0x1ebdd18	\WINDOWS\system32\msiexec.exe
+0x1ebf028	\ROUTER
+0x1ec0028	\lsarpc
+0x1ec0508	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\glow_b[1].gif
+0x1ec05a0	\WINDOWS\Fonts\symbol.ttf
+0x1ec1028	\Program Files\Mozilla Firefox\ssl3.dll
+0x1ec1b48	\WINDOWS\Fonts\timesbd.ttf
+0x1ec1f90	\Documents and Settings\All Users\Documents\desktop.ini
+0x1ec2188	\WINDOWS\WindowsUpdate.log
+0x1ec2220	\WINDOWS\system32\srclient.dll
+0x1ec26f0	\WINDOWS\system32\setupapi.dll
+0x1ec3210	\WINDOWS\system32\spoolss.dll
+0x1ec3820	\WINDOWS\Fonts\timesbi.ttf
+0x1ec3a28	\WINDOWS\Fonts\georgiab.ttf
+0x1ec3bd8	\WINDOWS\Fonts\timesi.ttf
+0x1ec3d18	\WINDOWS\system32\rastapi.dll
+0x1ec3e48	\WINDOWS\system32\mshtmled.dll
+0x1ec3ef0	\WINDOWS\system32\upnp.dll
+0x1ec4558	\WINDOWS\system32\win32spl.dll
+0x1ec4680	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[6]
+0x1ec48c0	\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\setup.exe
+0x1ec4bd8	\Program Files\Mozilla Firefox\components\jsconsole-clhandler.js
+0x1ec4e68	\WINDOWS\system32\spool\prtprocs\w32x86\TPWinPrn.dll
+0x1ec4f90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[2]
+0x1ec5028	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\HLS.api
+0x1ec5978	\Endpoint
+0x1ec6260	\Program Files\Mozilla Firefox\res\charsetData.properties
+0x1ec6300	\WINDOWS\system32\accwiz.exe
+0x1ec6398	\WINDOWS\explorer.exe
+0x1ec6518	\WINDOWS\system32\ntbackup.exe
+0x1ec7440	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[8]
+0x1ec8028	\Program Files\Mozilla Firefox\chrome\browser.jar
+0x1ec8240	\Program Files\Mozilla Firefox\components\nsDictionary.js
+0x1ec8548	\WINDOWS\system32\rasppp.dll
+0x1ec88f8	\WINDOWS\system32\hid.dll
+0x1ec8a00	\WINDOWS\system32\hidphone.tsp
+0x1ec8e68	\WINDOWS\system32\wtsapi32.dll
+0x1ec9540	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\Logo_25wht[1].gif
+0x1ec98a8	\WINDOWS\Fonts\shruti.ttf
+0x1ecaa00	\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-Bold.otf
+0x1ecb448	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\ie_23[2].css
+0x1ecb4e0	\Program Files\Mozilla Firefox\components\nsHelperAppDlg.js
+0x1ecbd00	\Program Files\Mozilla Firefox\chrome\pippki.manifest
+0x1ecbe28	\Program Files\Mozilla Firefox\README.txt
+0x1ecbf90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\WL_Hotmail_24x22_blue[1].gif
+0x1ecc910	\WINDOWS\Fonts\l_10646.ttf
+0x1eccf60	\AsyncConnectHlp
+0x1ecd5f8	\WINDOWS\system32\localspl.dll
+0x1ecd7d8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\488[1].jpg
+0x1ecda38	\WINDOWS\WindowsUpdate.log
+0x1ecdf08	\WINDOWS\system32\sfc_os.dll
+0x1ece230	\WINDOWS\WindowsUpdate.log
+0x1ece718	\WINDOWS\system32\spool\drivers\color\kodak_dc.icm
+0x1ece970	\WINDOWS\Fonts\times.ttf
+0x1ecec88	\WINDOWS\system32\msihnd.dll
+0x1ecf028	\lsarpc
+0x1ed0640	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x1ed0ae8	\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-Oblique.otf
+0x1ed0ce8	\WINDOWS\system32\utilman.exe
+0x1ed1220	\WINDOWS\Fonts\verdanab.ttf
+0x1ed2028	\WINDOWS\system32\jscript.dll
+0x1ed20e8	\Documents and Settings\Administrator\Start Menu\Programs\Windows Media Player.lnk
+0x1ed21b0	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x1ed2420	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x1ed2740	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x1ed2988	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ed2e68	\WINDOWS\system32\winsta.dll
+0x1ed3568	\WINDOWS\system32\netui0.dll
+0x1ed52c0	\WINDOWS\system32\msxml3.dll
+0x1ed5358	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Remote Desktop Connection.lnk
+0x1ed69e0	\WINDOWS\system32\version.dll
+0x1ed6b68	\Program Files\Adobe\Acrobat 6.0\Reader\Agm.dll
+0x1ed7628	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\nspr4.dll
+0x1ed9d18	\$Directory
+0x1eda3e0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1eda708	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x1edad38	\WINDOWS\system32\secur32.dll
+0x1edb738	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\wlanalytics[2].js
+0x1edb7d0	\WINDOWS\system32\dciman32.dll
+0x1edc028	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc0e8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc180	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc468	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc530	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc770	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1edc808	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05
+0x1edc8a0	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edc938	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1edca28	\WINDOWS\system32\ntshrui.dll
+0x1edcbe0	\WINDOWS\system32\magnify.exe
+0x1edd6c0	\Documents and Settings\All Users\Start Menu\Programs\Windows Messenger.lnk
+0x1eddc70	\Documents and Settings\Administrator\NTUSER.DAT
+0x1ede3e0	\WINDOWS\system32\shdocvw.dll
+0x1ede478	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ede790	\Endpoint
+0x1ede8d0	\WINDOWS\system32\inetcfg.dll
+0x1ede968	\WINDOWS\system32\usbmon.dll
+0x1edf210	\WINDOWS\system32\rasman.dll
+0x1ee1740	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\On-Screen Keyboard.lnk
+0x1ee1a68	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\firefox1502[1].exe
+0x1ee1f90	\WINDOWS\system32\access.cpl
+0x1ee2028	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Local Security Policy.lnk
+0x1ee2378	\WINDOWS\Fonts\courbi.ttf
+0x1ee2628	\WINDOWS\system32\msls31.dll
+0x1ee2f90	\Program Files\Internet Explorer\IEXPLORE.EXE
+0x1ee3290	\WINDOWS\system32\themeui.dll
+0x1ee3450	\WINDOWS\0.log
+0x1ee3580	\WINDOWS\system32\esent.dll
+0x1ee36a8	\WINDOWS\system32\httpapi.dll
+0x1ee38a8	\$Directory
+0x1ee3a08	\WINDOWS\system32\regsvr32.exe
+0x1ee4570	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ee4868	\Program Files\Mozilla Firefox\chrome\en-US.jar
+0x1ee4aa0	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+0x1ee4db8	\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x1ee4f90	\Ctx_WinStation_API_service
+0x1ee5380	\WINDOWS\system32\vmhgfs.dll
+0x1ee55b8	\WINDOWS\system32\iepeers.dll
+0x1ee5bd0	\Endpoint
+0x1ee66a0	\$Directory
+0x1ee6a38	\WINDOWS\system32\vbscript.dll
+0x1ee8cf0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Network Connections.lnk
+0x1ee9418	\WINDOWS\system32\ws2_32.dll
+0x1eea028	\Documents and Settings\Administrator\Local Settings\History\History.IE5\MSHist012010022520100226\index.dat
+0x1eea970	\Documents and Settings\All Users\Start Menu\Programs\Mozilla Firefox\Mozilla Firefox (Safe Mode).lnk
+0x1eeaaa0	\WINDOWS\system32\cleanmgr.exe
+0x1eeab40	\WINDOWS\system32\browseui.dll
+0x1eeb2d8	\WINDOWS\system32\termsrv.dll
+0x1eec5e8	\SSLFilterChannel
+0x1eec878	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1eec960	\$Directory
+0x1eecbd8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\arr[1].gif
+0x1eed900	\Program Files\Adobe\Acrobat 6.0\Esl\AiodLite.dll
+0x1eef268	\WINDOWS\Fonts\verdanai.ttf
+0x1eef3c0	\Program Files\Mozilla Firefox\chrome\classic.manifest
+0x1eef458	\WINDOWS\Fonts\ariali.ttf
+0x1eef738	\WINDOWS\WindowsUpdate.log
+0x1ef09c0	\$Directory
+0x1ef0aa8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\imgad[1].jpg
+0x1ef1028	\WINDOWS\system32\midimap.dll
+0x1ef1358	\WINDOWS\system32\wdmaud.drv
+0x1ef1d18	\WINDOWS\system32\winspool.drv
+0x1ef1f90	\WINDOWS\WindowsUpdate.log
+0x1ef2468	\srvsvc
+0x1ef2538	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\GbDetect.dll
+0x1ef3218	\Program Files\Mozilla Firefox\defaults\pref\reporter.js
+0x1ef42b0	\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\SC_Reader_DT.ico
+0x1ef5028	\WINDOWS\system32\corpol.dll
+0x1ef5188	\WINDOWS\system32\comres.dll
+0x1ef5360	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[6]
+0x1ef55b8	\WINDOWS\Fonts\trebucbi.ttf
+0x1ef5d20	\Program Files\Mozilla Firefox\greprefs\security-prefs.js
+0x1ef7028	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ef7470	\WINDOWS\system32\wuapi.dll
+0x1ef7640	\WINDOWS\system32\c_1250.nls
+0x1ef7810	\WINDOWS\system32\c_1251.nls
+0x1ef8198	\net\NtControlPipe11
+0x1ef83a0	\WINDOWS\system32\alg.exe
+0x1ef8ec8	\WINDOWS\system32\rasmans.dll
+0x1efa0e0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\icon_bing_s[1].png
+0x1efa260	\WINDOWS\Fonts\georgiaz.ttf
+0x1efa340	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x1efabb0	\$SetEndOfFileInfo
+0x1efaec0	\Program Files\Mozilla Firefox\components\jar50.dll
+0x1efb2a0	\$Directory
+0x1efbe28	\WINDOWS\system32\resutils.dll
+0x1efc298	\WINDOWS\system32\wbem\Repository\FS\MAPPING1.MAP
+0x1efc460	\WINDOWS\system32\wbem\ncprov.dll
+0x1efc590	\ROUTER
+0x1efca40	\WINDOWS\system32\colbact.dll
+0x1efcbb8	\WINDOWS\WindowsUpdate.log
+0x1efd398	\WINDOWS\system32\wbem\wbemsvc.dll
+0x1efdae0	\$Directory
+0x1efde90	\WINDOWS\system32\oobe\msoobe.exe
+0x1efdf28	\WINDOWS\system32\msi.dll
+0x1efe350	\WINDOWS\system32\wbem\wbemcore.dll
+0x1efe690	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\XXEZYIJD\desktop.ini
+0x1eff588	\net\NtControlPipe10
+0x1f00178	\$Directory
+0x1f01420	\Endpoint
+0x1f02028	\lsarpc
+0x1f024d8	\WINDOWS\system32\advpack.dll
+0x1f02590	\ntsvcs
+0x1f03028	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.cache
+0x1f030d8	\Program Files\Mozilla Firefox\chrome\reporter.jar
+0x1f044f8	\Documents and Settings\All Users\Documents\My Music\Desktop.ini
+0x1f04868	\WINDOWS\system32\stdole2.tlb
+0x1f049b8	\Program Files\Mozilla Firefox\defaults\profile\mimeTypes.rdf
+0x1f04ae8	\$Directory
+0x1f04c00	\lsass
+0x1f05038	\$Directory
+0x1f05100	\WINDOWS\WindowsUpdate.log
+0x1f05198	\WINDOWS\WindowsUpdate.log
+0x1f054b8	\Documents and Settings\Administrator\Cookies\index.dat
+0x1f05708	\WINDOWS\Fonts\arialbi.ttf
+0x1f06358	\W32TIME
+0x1f06a18	\WINDOWS\system32\sens.dll
+0x1f06f90	\WINDOWS\system32\icaapi.dll
+0x1f07028	\Endpoint
+0x1f07e40	\Program Files\Mozilla Firefox\searchplugins\creativecommons.pngew
+0x1f08210	\Documents and Settings\Administrator\Start Menu\desktop.ini
+0x1f08538	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Command Prompt.lnk
+0x1f08f90	\$Directory
+0x1f091f0	\Program Files\VMware\VMware Tools\icudt38l.dat
+0x1f093e8	\WINDOWS\system32
+0x1f09778	\WINDOWS\WindowsUpdate.log
+0x1f09810	\WINDOWS\WindowsUpdate.log
+0x1f098a8	\WINDOWS\WindowsUpdate.log
+0x1f09940	\WINDOWS\WindowsUpdate.log
+0x1f099d8	\WINDOWS\WindowsUpdate.log
+0x1f09a70	\WINDOWS\WindowsUpdate.log
+0x1f0a638	\Documents and Settings\All Users\Start Menu\Programs\desktop.ini
+0x1f0b2f8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f0b578	\srvsvc
+0x1f0b6c0	\srvsvc
+0x1f0d820	\
+0x1f0dc20	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f0dcb8	\WINDOWS\system32\mspatcha.dll
+0x1f0e028	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f0e2b8	\WINDOWS\system32\ersvc.dll
+0x1f0e390	\WINDOWS\system32\wuaueng.dll
+0x1f0e838	\$Directory
+0x1f0e960	\WINDOWS\pchealth\helpctr\BATCH
+0x1f0ef90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\file[1].exe
+0x1f0f8f0	\Documents and Settings\Administrator\Local Settings\History\History.IE5\MSHist012010022720100228\index.dat
+0x1f10ab0	\WINDOWS\WindowsUpdate.log
+0x1f10e00	\Program Files\Mozilla Firefox\res\html\gopher-audio.gif
+0x1f10e98	\Program Files\Mozilla Firefox\chrome\comm.manifest
+0x1f12028	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f121c0	\WINDOWS\pchealth\helpctr\binaries\pchsvc.dll
+0x1f12e00	\PROGRA~1\MSNGAM~1\Windows\chkrres.dll
+0x1f12f00	\Program Files\VMware\VMware Tools\gobject-2.0.dll
+0x1f13028	\net\NtControlPipe11
+0x1f13198	\WINDOWS\system32\srvsvc.dll
+0x1f132d8	\PROGRA~1\MSNGAM~1\Windows\Hrtzres.dll
+0x1f13a20	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f13bf0	\WINDOWS\system32\wuapi.dll
+0x1f146a8	\Endpoint
+0x1f14b70	\$Directory
+0x1f14cf0	\Program Files\VMware\VMware Tools\VMControlPanel.cpl
+0x1f14ec0	\WINDOWS\system32\dssenh.dll
+0x1f153d0	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f15618	\$Directory
+0x1f15d38	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f15ee0	\Program Files\VMware\VMware Tools\plugins\vmsvc\powerOps.dll
+0x1f16028	\WINDOWS\WindowsUpdate.log
+0x1f16138	\WINDOWS\system32\ipnathlp.dll
+0x1f161d0	\net\NtControlPipe10
+0x1f16360	\ROUTER
+0x1f163f8	\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe
+0x1f164d0	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f16568	\Program Files\VMware\VMware Tools\glib-2.0.dll
+0x1f169e8	\WINDOWS\system32\wsecedit.dll
+0x1f17880	\WINDOWS\system32\TPVMMon.dll
+0x1f17a48	\$Directory
+0x1f17f90	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f18798	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Windows Explorer.lnk
+0x1f18980	\Documents and Settings\Administrator\Start Menu
+0x1f18b68	\Program Files\Outlook Express\msimn.exe
+0x1f19b78	\WINDOWS\system32\ssdpapi.dll
+0x1f19eb8	\AsyncConnectHlp
+0x1f1a640	\Endpoint
+0x1f1b320	\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x1f1ba48	\Program Files\VMware\VMware Tools\gmodule-2.0.dll
+0x1f1cf90	\Documents and Settings\LocalService\Cookies\index.dat
+0x1f1da50	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f1dae8	\WINDOWS\system32\trkwks.dll
+0x1f1df90	\Endpoint
+0x1f1e4c0	\Program Files\Mozilla Firefox\components\jsd3250.dll
+0x1f1f400	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f1fb38	\WINDOWS\system32\wbem\wmisvc.dll
+0x1f1ff40	\Program Files\Mozilla Firefox\defaults\autoconfig\platform.js
+0x1f20028	\Program Files\VMware\VMware Tools\intl.dll
+0x1f20478	\WINDOWS\system32\cabinet.dll
+0x1f205e8	\WINDOWS\system32\winhttp.dll
+0x1f21218	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Printme\PMAdobeIndex.url
+0x1f212b0	\WINDOWS\system32\audiosrv.dll
+0x1f219d8	\WINDOWS\system32\seclogon.dll
+0x1f21f90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\oldversion[1].js
+0x1f22998	\Program Files\Mozilla Firefox\greprefs\xpinstall.js
+0x1f22c38	\WINDOWS\system32\aclui.dll
+0x1f22d60	\Program Files\Adobe\Acrobat 6.0\Reader\esdupdate.dll
+0x1f22df8	\Program Files\Adobe\Acrobat 6.0\Resource\CMap
+0x1f24028	\Documents and Settings\Administrator\Application Data\Adobe\Acrobat\6.0\AcroForm\MRUFormsList
+0x1f244f8	\WINDOWS\system32\powrprof.dll
+0x1f24a38	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\desktop.ini
+0x1f24ae0	\WINDOWS\system32\comsnap.dll
+0x1f24d00	\Program Files\Mozilla Firefox\res\ua.css
+0x1f24e18	\WINDOWS\system32\dxtmsft.dll
+0x1f25538	\WINDOWS\system32\schedsvc.dll
+0x1f26128	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f26528	\net\NtControlPipe8
+0x1f26a98	\WINDOWS\system32\ntlanman.dll
+0x1f284b0	\WINDOWS\Fonts\trebuc.ttf
+0x1f288b0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\multimedia[1].gif
+0x1f28ad8	\WINDOWS\system32\cmd.exe
+0x1f28c08	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f292a0	\srvsvc
+0x1f29418	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\hp_55[1].js
+0x1f2a078	\WINDOWS\Fonts\mangal.ttf
+0x1f2a768	\WINDOWS\system32\moricons.dll
+0x1f2a9a8	\Program Files\Windows Media Player\npwmsdrm.dll
+0x1f2bae0	\Program Files\Mozilla Firefox\res\arrow.gif
+0x1f2c1a0	\WINDOWS\system32\lmhsvc.dll
+0x1f2c378	\lsarpc
+0x1f2c560	\WINDOWS\system32\mstask.dll
+0x1f2c628	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f2c740	\WINDOWS\WindowsUpdate.log
+0x1f2d468	\WINDOWS\system32
+0x1f2ebc8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f300f0	\WINDOWS\SoftwareDistribution\DataStore\Logs\tmp.edb
+0x1f30308	\net\NtControlPipe8
+0x1f30588	\WINDOWS\system32\wbem\mof
+0x1f30a30	\atsvc
+0x1f30c00	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grid[1].gif
+0x1f345e0	\WINDOWS\Fonts\micross.ttf
+0x1f34920	\WINDOWS\system32\dhcpcsvc.dll
+0x1f34b70	\Program Files\VMware\VMware Tools\iconv.dll
+0x1f34c38	\WINDOWS\system32
+0x1f35028	\WINDOWS\system32\activeds.dll
+0x1f35130	\WINDOWS\system32\rasman.dll
+0x1f355a0	\WINDOWS\system32\rasapi32.dll
+0x1f358c0	\WINDOWS\system32\adsldpc.dll
+0x1f36758	\WINDOWS\system32\clbcatq.dll
+0x1f36a00	\WINDOWS\system32\inetpp.dll
+0x1f36a98	\WINDOWS\system32\msimg32.dll
+0x1f372e8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1f375f8	\WINDOWS\system32\rastls.dll
+0x1f37730	\keysvc
+0x1f37868	\WINDOWS\system32\msxml3.dll
+0x1f37900	\winreg
+0x1f37f30	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Entertainment\desktop.ini
+0x1f38b50	\WINDOWS\system32\charmap.exe
+0x1f391b8	\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x1f39b60	\Documents and Settings\NetworkService\ntuser.dat.LOG
+0x1f39f90	\$Directory
+0x1f3a340	\net\NtControlPipe3
+0x1f3a738	\net\NtControlPipe2
+0x1f3aba0	\Endpoint
+0x1f3adb8	\Endpoint
+0x1f3b2c8	\Documents and Settings\Administrator\Start Menu
+0x1f3b3e0	\Program Files\VMware\VMware Tools
+0x1f3e028	\WINDOWS\system32\spool\drivers\color
+0x1f3e130	\WINDOWS\system32\mui\0405
+0x1f3e258	\WINDOWS\system32\mui\0404
+0x1f3e380	\WINDOWS\system32\mui\0401
+0x1f3e4a8	\Program Files\Windows NT\Accessories
+0x1f3e5d0	\WINDOWS\system32\wbem\xml
+0x1f3e6f8	\Program Files\Common Files\Microsoft Shared\VGX
+0x1f3e8b0	\WINDOWS\pchealth\UploadLB\Binaries
+0x1f3ec60	\$Directory
+0x1f3ecf8	\WINDOWS\Help\Tours\mmTour
+0x1f3ee20	\WINDOWS\system32\IME\TINTLGNT
+0x1f3f4b0	\$Directory
+0x1f3f740	\$Directory
+0x1f3f868	\WINDOWS\system32\mui\0009
+0x1f3fd70	\WINDOWS\ime\imkr6_1\dicts
+0x1f3fe98	\WINDOWS\system32\usmt
+0x1f40700	\WINDOWS\system32\sensapi.dll
+0x1f40838	\Winsock2\CatalogChangeListener-410-0
+0x1f415b0	\ntsvcs
+0x1f418c0	\WINDOWS\Fonts\cour.ttf
+0x1f41f68	\WINDOWS\ime\CHTIME\Applets
+0x1f42028	\WINDOWS\system
+0x1f420f0	\WINDOWS\system32\drivers\disdn
+0x1f42218	\Program Files\NetMeeting
+0x1f42420	\$Directory
+0x1f42718	\$Directory
+0x1f428d0	\WINDOWS\pchealth\helpctr\binaries
+0x1f42a88	\Program Files\MSN Gaming Zone\Windows
+0x1f42d30	\WINDOWS\msagent\intl
+0x1f42f20	\WINDOWS\msagent
+0x1f43d78	\WINDOWS\system32\ddraw.dll
+0x1f44558	\Documents and Settings\Administrator
+0x1f449a8	\WINDOWS\system32\sfc_os.dll
+0x1f44be8	\WINDOWS\system32\sfc.dll
+0x1f44e58	\WINDOWS\system32\sfc.dll
+0x1f45938	\WINDOWS\system32\ws2help.dll
+0x1f45a68	\WINDOWS\system32\certcli.dll
+0x1f45b00	\WINDOWS\system32\winlogon.exe
+0x1f47028	\WINDOWS\system32\ws2_32.dll
+0x1f472d0	\WINDOWS\system32\wbem\wbemprox.dll
+0x1f47520	\Program Files\Mozilla Firefox\res\html.css
+0x1f476d8	\WINDOWS\system32\svchost.exe
+0x1f47b10	\WINDOWS\system32\cscdll.dll
+0x1f47d30	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Entertainment\Windows Media Player.lnk
+0x1f48118	\WINDOWS\system32\regapi.dll
+0x1f48a70	\WINDOWS\AppPatch\AcGenral.dll
+0x1f48ef8	\WINDOWS\system32\ntdsapi.dll
+0x1f49028	\Program Files\Common Files\Microsoft Shared\web server extensions\40\servsupp
+0x1f49840	\WINDOWS\system32\rsaenh.dll
+0x1f49940	\lsarpc
+0x1f49a68	\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin\1033
+0x1f49b00	\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin
+0x1f49d48	\Program Files\microsoft frontpage\version3.0\bin
+0x1f49f00	\Program Files\Common Files\Microsoft Shared\web server extensions\40\bots\vinavbar
+0x1f4a028	\WINDOWS\system32\mswsock.dll
+0x1f4a0e0	\WINDOWS\system32\drivers
+0x1f4a178	\WINDOWS\Fonts
+0x1f4a2a0	\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin
+0x1f4a3c8	\WINDOWS\system32\inetsrv
+0x1f4a4f0	\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_aut
+0x1f4a618	\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_aut
+0x1f4a740	\WINDOWS\Help
+0x1f4a7d8	\WINDOWS\system32
+0x1f4a990	\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_adm
+0x1f4af28	\WINDOWS\system32\wshtcpip.dll
+0x1f4b2d8	\$Directory
+0x1f4b4e0	\WINDOWS\system32\rsaenh.dll
+0x1f4bae0	\$Directory
+0x1f4bf28	\$Directory
+0x1f4d038	\$Directory
+0x1f4d1b8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll
+0x1f4d380	\WINDOWS\system32\scesrv.dll
+0x1f4d620	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f4dbb8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1f4dd20	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\secmod.db
+0x1f5f3c0	\WINDOWS\system32\netapi32.dll
+0x1f5f690	\WINDOWS\system32\wintrust.dll
+0x1f5fa38	\WINDOWS\system32\msasn1.dll
+0x1f5fed0	\WINDOWS\system32\authz.dll
+0x1f60138	\WINDOWS\system32\profmap.dll
+0x1fc0710	\WINDOWS\system32\hnetcfg.dll
+0x1fc0980	\WINDOWS\system32\wdigest.dll
+0x1fc0b18	\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_adm
+0x1fc0bb0	\WINDOWS\AppPatch
+0x1fc0e38	\Program Files\Mozilla Firefox\res\cmessage.txt
+0x1fc0ed0	\WINDOWS\system32\w32time.dll
+0x1fc1490	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Magnifier.lnk
+0x1fc2e90	\Program Files\Mozilla Firefox\firefox.exe
+0x1fc72b0	\$Directory
+0x1fc74e8	\$Directory
+0x1fc7580	\$Directory
+0x1fc7868	\$Directory
+0x1fc7cc8	\WINDOWS\system32\config\systemprofile\Cookies\index.dat
+0x1fcc340	\WINDOWS\system32\basesrv.dll
+0x1fcc588	\WINDOWS\system32\cryptui.dll
+0x1fcc858	\WINDOWS\system32\userenv.dll
+0x1fccb28	\WINDOWS\system32\apphelp.dll
+0x1fccda8	\WINDOWS\system32\crypt32.dll
+0x1fcf160	\WINDOWS\system32\vga.dll
+0x1fcf2c0	\WINDOWS\Fonts\vgaoem.fon
+0x1fcf970	\WINDOWS\system32\drivers\dxg.sys
+0x1fd28d0	\WINDOWS\system32\smss.exe
+0x1fd2d18	\WINDOWS\system32\olecli32.dll
+0x1fd33e8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\communications[1].gif
+0x1fd3810	\Program Files\Mozilla Firefox\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}\install.rdf
+0x1fd3f28	\WINDOWS\WindowsUpdate.log
+0x1fd4028	\Program Files\Mozilla Firefox\chrome\toolkit.manifest
+0x1fd4148	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grey_box_2010[1].jpg
+0x1fd4598	\$Directory
+0x1fd47c0	\Program Files\Mozilla Firefox\res\html\gopher-image.gif
+0x1fd4a80	\WINDOWS\WindowsUpdate.log
+0x1fd4b18	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\abg-en-100c-ffffff[1].png
+0x1fd4e18	\Documents and Settings\Administrator\Start Menu\Programs\Outlook Express.lnk
+0x1fd5e90	\Documents and Settings\Administrator\My Documents\desktop.ini
+0x1fd9440	\WINDOWS\Fonts\mvboli.ttf
+0x1fd9760	\WINDOWS\Fonts\couri.ttf
+0x1fd98a8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\SendMail.api
+0x1fd9940	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Search5.api
+0x1fd9f90	\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Hearts.lnk
+0x1fda7a8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1fdb778	\wkssvc
+0x1fdb8a8	\wkssvc
+0x1fdbdd0	\keysvc
+0x1fdbe78	\$Directory
+0x1fdc320	\WINDOWS\system32\cryptsvc.dll
+0x1fdc530	\WINDOWS\system32\wkssvc.dll
+0x1fdcef8	\WINDOWS\system32\winipsec.dll
+0x1fdcf90	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1fdd708	\spoolss
+0x1fddcd8	\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x1fdf7c0	\$Directory
+0x1fdfde8	\WINDOWS\system32
+0x1fdff90	\$Extend\$ObjId
+0x1fe05d0	\Endpoint
+0x1fe14f8	\WINDOWS\system32\pstorsvc.dll
+0x1fe16c8	\spoolss
+0x1fe2410	\WINDOWS\system32\msv1_0.dll
+0x1fe2e80	\WINDOWS\system32\raschap.dll
+0x1fe3028	\WINDOWS\Fonts\impact.ttf
+0x1fe3a80	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\compreg.dat
+0x1fe3ed0	\WINDOWS\system32\atl.dll
+0x1fe4920	\trkwks
+0x1fe49b8	\epmapper
+0x1fe5db8	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\xpti.dat
+0x1fe67f0	\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x1fe6cc8	\epmapper
+0x1fe8cd8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1fe8e08	\WINDOWS\system32\tapi32.dll
+0x1fe9600	\WINDOWS\system32\dnsrslvr.dll
+0x1fe9a98	\Documents and Settings\LocalService\ntuser.dat.LOG
+0x1fe9c48	\Documents and Settings\LocalService\NTUSER.DAT
+0x1fe9f90	\$Directory
+0x1fea5e0	\WINDOWS\system32\dhcpcsvc.dll
+0x1feb6d0	\WINDOWS\system32\dispex.dll
+0x1febcc8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\IA32.api
+0x1fec028	\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_MAP_
+0x1fec730	\WINDOWS\system32\MSCTF.dll
+0x1fec9a8	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Tour Windows XP.lnk
+0x1fecb50	\WINDOWS\system32\xpsp2res.dll
+0x1fed308	\WINDOWS\system32\riched20.dll
+0x1fed518	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1fed730	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1feda50	\WINDOWS\system32\tapi32.dll
+0x1fedc80	\WINDOWS\system32
+0x1fedd18	\net\NtControlPipe5
+0x1fee0a8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[4]
+0x1feeaf8	\Program Files\Adobe\Acrobat 6.0\Reader\CoolType.dll
+0x1feec88	\WINDOWS\system32\rasadhlp.dll
+0x1fef3e8	\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x1ff0540	\$Directory
+0x1ff07d8	\$Directory
+0x1ff0b28	\net\NtControlPipe2
+0x1ff0d10	\AsyncConnectHlp
+0x1ff0ec8	\net\NtControlPipe5
+0x1ff0f90	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ff3118	\WINDOWS\system32\mui\0425
+0x1ff3260	\WINDOWS\system32\mui\041e
+0x1ff3388	\WINDOWS\system32\mui\041a
+0x1ff34b0	\WINDOWS\system32\mui\0418
+0x1ff35d8	\WINDOWS\system32\mui\0402
+0x1ff3700	\WINDOWS\system32\mui\0C0A
+0x1ff3828	\WINDOWS\system32\mui\0816
+0x1ff39a0	\WINDOWS\system32\mui\0804
+0x1ff3ac8	\WINDOWS\system32\mui\0424
+0x1ff3bf0	\WINDOWS\system32\mui\041f
+0x1ff3d18	\WINDOWS\system32\mui\041D
+0x1ff3e40	\WINDOWS\system32\mui\041b
+0x1ff3f68	\WINDOWS\system32\mui\0419
+0x1ff42c0	\Program Files\Movie Maker
+0x1ff4718	\WINDOWS\system32
+0x1ff4ac0	\WINDOWS\Resources\Themes\Luna
+0x1ff4c28	\Program Files\Common Files\SpeechEngines\Microsoft\Lexicon\1033
+0x1ff4d50	\WINDOWS\system32\IME\PINTLGNT
+0x1ff4e78	\WINDOWS\ime\shared
+0x1ff50f8	\Program Files\Windows NT
+0x1ff5348	\Program Files\Common Files\Microsoft Shared\Triedit
+0x1ff5418	\WINDOWS\system32\advpack.dll
+0x1ff5698	\Endpoint
+0x1ff5f40	\WINDOWS\ime\imjp8_1
+0x1ff6550	\net\NtControlPipe7
+0x1ff7f90	\InitShutdown
+0x1ff8028	\WINDOWS\system32\umpnpmgr.dll
+0x1ff8d88	\WINDOWS\system32\wbem\wbemcons.dll
+0x1ff8f90	\WINDOWS\system32\lsasrv.dll
+0x1ff9158	\WINDOWS\system32\vmx_fb.dll
+0x1ff94c8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x1ff97b8	\WINDOWS\system32\msvcp60.dll
+0x1ff9d70	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ff9f68	\WINDOWS\system32\cryptdll.dll
+0x1ffaaf0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x1ffac50	\WINDOWS\system32\lowsec\user.ds
+0x1fface8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\show_ads[2].js
+0x1ffadf0	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\plugtmp\PDF.php
+0x1ffae88	\ROUTER
+0x1ffb028	\lsass
+0x1ffb3e8	\WINDOWS\system32\spool\drivers\color\is330.icm
+0x1ffb510	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\desktop.ini
+0x1ffbb90	\WINDOWS\Fonts\pala.ttf
+0x1ffbef8	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Perflib_Perfdata_f4.dat
+0x1ffbf90	\WINDOWS\Fonts\verdanaz.ttf
+0x1ffd1c8	\WINDOWS\system32\win32k.sys
+0x1ffe880	\WINDOWS\system32\uxtheme.dll
+0x1ffeb48	\WINDOWS\Fonts\wst_czec.fon
+0x1ffff90	\WINDOWS\system32\msv1_0.dll
+0x2000028	\WINDOWS\system32
+0x2041870	\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\Data1.cab
+0x20429a8	\WINDOWS\WindowsUpdate.log
+0x20453b0	\WINDOWS\system32\olecnv32.dll
+0x204e228	\WINDOWS\system32\pstorec.dll
+0x204e2e8	\WINDOWS\system32\olesvr32.dll
+0x204f4b0	\WINDOWS\system32\locale.nls
+0x2054ab8	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\ComDb.Dat
+0x2054f90	\Documents and Settings\NetworkService\Local Settings\History\History.IE5\index.dat
+0x2057028	\WINDOWS\Fonts\vgasys.fon
+0x2057630	\$BitMap
+0x2057c20	\WINDOWS\system32\oleaut32.dll
+0x2058178	\WINDOWS\system32\samsrv.dll
+0x20584c0	\WINDOWS\explorer.exe
+0x2058720	\Program Files\Mozilla Firefox\searchplugins\eBay.gifew
+0x2058a28	\WINDOWS\system32\cnbjmon.dll
+0x2059340	\WINDOWS\system32\tcpmon.dll
+0x2059c60	\$Directory
+0x2059dc8	\WINDOWS\system32\pjlmon.dll
+0x205a398	\WINDOWS\system32\samlib.dll
+0x205a7a0	\WINDOWS\system32\shimeng.dll
+0x205ac58	\WINDOWS\system32\dnsapi.dll
+0x205c028	\WINDOWS\system32\lsass.exe
+0x205c3d0	\Endpoint
+0x205c8b8	\WINDOWS\win.ini
+0x205c950	\WINDOWS\Fonts\smalle.fon
+0x205ce80	\WINDOWS\Fonts\modern.fon
+0x205dee8	\WINDOWS\system32\narrator.exe
+0x2060380	\WINDOWS\system32\kernel32.dll
+0x2061cc0	\WINDOWS\system32\iphlpapi.dll
+0x20a1bb0	\Program Files\Mozilla Firefox\chrome\toolkit.jar
+0x20a2dc0	\lsass
+0x20b69e8	\WINDOWS\system32\lz32.dll
+0x20b8218	\Documents and Settings\LocalService\Cookies\index.dat
+0x20b8338	\lsass
+0x20bd440	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303
+0x20be028	\WINDOWS\system32\sortkey.nls
+0x20be598	\WINDOWS\system32\lowsec\user.ds
+0x20be8c8	\Program Files\Mozilla Firefox\AccessibleMarshal.dll
+0x20bf178	\lsass
+0x20c0b68	\WINDOWS\system32
+0x20c1960	\Program Files\Adobe\Acrobat 6.0\Reader\Messages\ENU\RdrMsgENU.pdf
+0x20c1a38	\WINDOWS\system32\drivers\etc
+0x20c1ba8	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\components\xpinstal.dll
+0x20c1cd0	\Program Files\Mozilla Firefox\searchplugins\creativecommons.src
+0x20c3028	\WINDOWS\system32\mydocs.dll
+0x20c31a0	\lsarpc
+0x20c3e98	\WINDOWS\Fonts\estre.ttf
+0x20c50c8	\WINDOWS\system32\cscdll.dll
+0x20c5420	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\generatedPublisherConfig[2].js
+0x20c5a98	\net\NtControlPipe6
+0x20c5eb8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x20c6e68	\Program Files\Mozilla Firefox\defaults\pref\firefox.js
+0x20c6f90	\Program Files\Mozilla Firefox\searchplugins\answers.src
+0x20c7298	\$Directory
+0x20c73b0	\$Directory
+0x20c74d8	\net\NtControlPipe6
+0x20c7680	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\43A225B7742FAFAA1C96B01C63A6E[1].gif
+0x20c7720	\Documents and Settings\All Users\Start Menu\Programs\Games\desktop.ini
+0x20c77b8	\Program Files\Windows NT\Accessories\wordpad.exe
+0x20c7bf0	\net\NtControlPipe0
+0x20c8150	\WINDOWS\system32\winspool.drv
+0x20c8500	\WINDOWS\system32\comres.dll
+0x20c8730	\WINDOWS\system32\wlnotify.dll
+0x20c8ef8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\XFA.api
+0x20c8f90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x20c9378	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Data Sources (ODBC).lnk
+0x20c9d20	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Backup.lnk
+0x20ca558	\winreg
+0x20ca5f0	\WINDOWS\system32\oakley.dll
+0x20cad18	\WINDOWS\system32\winrnr.dll
+0x20cb988	\WINDOWS\system32\wsock32.dll
+0x20cbaf8	\47
+0x20cc028	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x20cc738	\WINDOWS\system32\rpcss.dll
+0x20cc8a8	\WINDOWS\system32\ntmarta.dll
+0x20cd440	\Ctx_WinStation_API_service
+0x20cd4d8	\WINDOWS\system32
+0x20cd730	\net\NtControlPipe1
+0x20d01e0	\WINDOWS\PeerNet
+0x20d0308	\Program Files\Common Files\Microsoft Shared\Speech\1033
+0x20d03a0	\Program Files\Common Files\SpeechEngines\Microsoft
+0x20d0658	\$Directory
+0x20d06f0	\WINDOWS\system32\wbem\snmp
+0x20d0818	\WINDOWS\Resources\Themes\Luna\Shell\Metallic
+0x20d0900	\WINDOWS\Resources\Themes\Luna\Shell\Homestead
+0x20d0be0	\WINDOWS\Resources\Themes\Luna\Shell\NormalColor
+0x20d0d08	\Program Files\Common Files\Microsoft Shared\Speech
+0x20d0f00	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcp80.dll
+0x20d15f0	\System Volume Information\tracking.log
+0x20d2028	\WINDOWS\system32\Com
+0x20d2ee0	\WINDOWS\system32\Setup
+0x20d36d0	\Program Files\Windows Media Player\wmplayer.exe
+0x20d37a0	\WINDOWS\WindowsUpdate.log
+0x20d3d80	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x20d4280	\WINDOWS\system32\shsvcs.dll
+0x20d4600	\WINDOWS\system32\w3ssl.dll
+0x20d48a0	\WINDOWS\system32\odbcint.dll
+0x20d4938	\WINDOWS\system32\odbcint.dll
+0x20d4b10	\WINDOWS\system32\strmfilt.dll
+0x20d4ba8	\WINDOWS\WindowsShell.Manifest
+0x20d4e08	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll
+0x20d5690	\WINDOWS\system32\msprivs.dll
+0x20d6350	\WINDOWS\Fonts\wst_engl.fon
+0x20d9780	\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x20d9b20	\WINDOWS\system32\perfproc.dll
+0x20da028	\WINDOWS\system32\psapi.dll
+0x20da2e8	\WINDOWS\system32\geo.nls
+0x20da9e8	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.rdf
+0x20daea0	\Endpoint
+0x20db380	\$Directory
+0x20db4a0	\WINDOWS\system32\csrsrv.dll
+0x20f27a0	\$Directory
+0x20f2de8	\WINDOWS\AppPatch\drvmain.sdb
+0x20fd028	\WINDOWS\system32\gdi32.dll
+0x20fdd20	\lsass
+0x2104800	\WINDOWS\system32\comdlg32.dll
+0x2106aa8	\WINDOWS\system32\advapi32.dll
+0x210b6e0	\WINDOWS\system32\msvcrt.dll
+0x210b9b0	\WINDOWS\system32\comctl32.dll
+0x210bc58	\WINDOWS\system32\shlwapi.dll
+0x2110028	\WINDOWS\system32\ntdll.dll
+0x2114590	\WINDOWS\system32\unicode.nls
+0x2129e80	\$Mft
+0x2135470	\PROGRA~1\MSNGAM~1\Windows\Rvseres.dll
+0x2136028	\$Directory
+0x21364f0	\$Directory
+0x2136728	\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x2261190	\WINDOWS\system32\sndrec32.exe
+0x2261250	\Program Files\Mozilla Firefox\res\charsetalias.properties
+0x2261b50	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\System Restore.lnk
+0x2262f90	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.ini
+0x2263428	\Documents and Settings\Administrator\Start Menu\Programs\Startup\desktop.ini
+0x22634c0	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarkbackups\bookmarks-2010-02-27.html
+0x2264120	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\pdf.ocx
+0x22641b8	\WINDOWS\WindowsUpdate.log
+0x2264250	\Documents and Settings\All Users\Start Menu\Programs\PrintMe Internet Printing\Learn More.lnk
+0x22642e8	\WINDOWS\system32\url.dll
+0x22644d8	\WINDOWS\WindowsUpdate.log
+0x2264970	\WINDOWS\system32\regsvr32.exe
+0x2264d98	\WINDOWS\WindowsUpdate.log
+0x2265430	\Program Files\Mozilla Firefox\components\nsSetDefaultBrowser.js
+0x22656c8	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Accessibility\Accessibility Wizard.lnk
+0x2265a40	\WINDOWS\system32\acledit.dll
+0x2266598	\WINDOWS\system32\netshell.dll
+0x2266630	\Program Files\Windows NT\hypertrm.exe
+0x22668a0	\WINDOWS\system32\mscms.dll
+0x2266a90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\b_13[2].css
+0x2266e80	\Program Files\Adobe\Acrobat 6.0\Reader\Browser\nppdf32.dll
+0x2267330	\$Directory
+0x2267738	\Program Files\Windows Media Player\npdrmv2.dll
+0x22677d0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Calculator.lnk
+0x2268538	\Program Files\Mozilla Firefox\res\arrowd.gif
+0x2268670	\Program Files\Mozilla Firefox\components\nsCloseAllWindows.js
+0x2269d60	\$Directory
+0x226b998	\WINDOWS\system32\spool\drivers\color\sRGB Color Space Profile.icm
+0x226bb68	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\legal_46.pdf
+0x226c770	\WINDOWS\system32\dpnet.dll
+0x226c8e8	\WINDOWS\system32\osk.exe
+0x226ce80	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\B5_fit.pdf
+0x226cf90	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\components\jar50.dll
+0x226d028	\WINDOWS\system32\inetcpl.cpl
+0x226d388	\$Directory
+0x226dd90	\Documents and Settings\All Users\Start Menu\Programs\Accessories\WordPad.lnk
+0x226e028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\pipe[1].gif
+0x226e338	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\A4_fit.pdf
+0x226e3e0	\Program Files\Adobe\Acrobat 6.0\Resource\CMap\AdobeFnt07.lst
+0x226e6d0	\$Directory
+0x226eb18	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\OLS\Locale\ENU\manifest.xml
+0x226ec40	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\weblink.api
+0x226ecd8	\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\media.js
+0x226f028	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr106.tmp
+0x226f0d0	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\compatibility.ini
+0x226f5b8	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\areatool.gif
+0x22705d0	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\chrome\userChrome-example.css
+0x2270728	\WINDOWS\system32\els.dll
+0x22707c0	\Program Files\Movie Maker\moviemk.exe
+0x2271028	\Documents and Settings\All Users\Start Menu\Programs\Games\Hearts.lnk
+0x22713a8	\Program Files\Adobe\Acrobat 6.0\Reader\Optional\README.TXT
+0x2271980	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2271b28	\WINDOWS\WindowsUpdate.log
+0x2271cd0	\WINDOWS\WindowsUpdate.log
+0x2272028	\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_003_
+0x22720e0	\Program Files\Mozilla Firefox\searchplugins\google.gif
+0x2272260	\$Directory
+0x22725e8	\WINDOWS\WindowsUpdate.log
+0x2272748	\Program Files\Mozilla Firefox\res\forms.css
+0x2272c68	\$Directory
+0x2273038	\$Directory
+0x2273368	\WINDOWS\WindowsUpdate.log
+0x2273500	\Program Files\Mozilla Firefox\searchplugins\amazondotcom.src
+0x2273618	\WINDOWS\WindowsUpdate.log
+0x22737b0	\Documents and Settings\All Users\Application Data\desktop.ini
+0x22743d0	\$Directory
+0x22747e0	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\printme.api
+0x2274b98	\$Directory
+0x2274ed8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Multimedia\Multimedia.api
+0x2275390	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\expansion_embed[2].js
+0x22762f8	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarks.bak
+0x2276868	\WINDOWS\system32\odbcad32.exe
+0x2276e50	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+0x2276ee8	\WINDOWS\system32\freecell.exe
+0x2277868	\Program Files\Adobe\Acrobat 6.0\Reader\AcroRd32.exe
+0x2277ee8	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Performance.lnk
+0x2278630	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\measure_loop.gif
+0x2278938	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\layerisvisible.gif
+0x2279a20	\Program Files\Mozilla Firefox\components\nsExtensionManager.js
+0x2279da0	\$Directory
+0x227ab20	\Documents and Settings\All Users\Start Menu\Programs\Games\Minesweeper.lnk
+0x227ae78	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\highlighter.gif
+0x227af90	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\search.rdf
+0x227b190	\Program Files\Adobe\Acrobat 6.0\Resource\Font\AdobePiStd.otf
+0x227c300	\Documents and Settings\Administrator\Application Data\desktop.ini
+0x227c640	\AsyncConnectHlp
+0x227d330	\WINDOWS\system32\wbem\Logs\wbemess.log
+0x227db88	\WINDOWS\WindowsUpdate.log
+0x227dd20	\WINDOWS\WindowsUpdate.log
+0x227ddb8	\Program Files\Adobe\Acrobat 6.0\Reader\SPPlugins\ExpressViews.apl
+0x227de50	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x227df68	\WINDOWS\WindowsUpdate.log
+0x227f608	\WINDOWS\WindowsUpdate.log
+0x227f770	\lsass
+0x227fc28	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\bg_blue_2[1].gif
+0x2280518	\Program Files\Windows NT\Pinball\PINBALL.EXE
+0x2281028	\Program Files\Mozilla Firefox\res\broken-image.gif
+0x2281360	\Program Files\Mozilla Firefox\browserconfig.properties
+0x2281680	\Program Files\Adobe\Acrobat 6.0\Resource\Font\ZX______.PFB
+0x2282bd0	\WINDOWS\system32\6to4svc.dll
+0x2283028	\lsass
+0x2283190	\WINDOWS\system32\ntlanman.dll
+0x22838e0	\$Directory
+0x2283d18	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\kvlc[1].png
+0x2284188	\WINDOWS\WindowsUpdate.log
+0x22845e8	\Program Files\Adobe\Acrobat 6.0\Resource\CMap\Identity-H
+0x2284ef8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\i[1].png
+0x2285560	\WINDOWS\Fonts\ariblk.ttf
+0x2285790	\WINDOWS\Fonts\courbd.ttf
+0x2285ca0	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\prefs.js
+0x22864b0	\WINDOWS\system32\$winnt$.inf
+0x2286a20	\net\NtControlPipe12
+0x22876e8	\$Directory
+0x2287888	\WINDOWS\system32\mfcsubs.dll
+0x2289878	\$Directory
+0x2289b38	\WINDOWS\system32\mspaint.exe
+0x228aa30	\Program Files\Mozilla Firefox\install_status.log
+0x228ad10	\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x228af90	\WINDOWS\system32\icfgnt5.dll
+0x228b028	\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x228b198	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x228b780	\Program Files\Adobe\Acrobat 6.0\Reader\Messages\ENU\RdrMsgENU.pdf
+0x228c488	\Program Files\Internet Explorer\IEXPLORE.EXE
+0x228caa0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\dap[1].js
+0x228cd28	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\kvarr[1].gif
+0x228ce48	\Documents and Settings\All Users\Start Menu\Programs\Startup\desktop.ini
+0x228d598	\WINDOWS\system32\wups.dll
+0x228d638	\WINDOWS\system32\dispex.dll
+0x228d960	\Program Files\Mozilla Firefox\res\html\gopher-find.gif
+0x228e9e0	\WINDOWS\system32\compatUI.dll
+0x228ea78	\Program Files\Mozilla Firefox\chrome\classic.jar
+0x228ebe8	\Documents and Settings\Administrator\Cookies\index.dat
+0x228f8c8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\primedns[1].gif
+0x228fd50	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\mimeTypes.rdf
+0x228ff90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\abg[1].js
+0x2290410	\WINDOWS\WindowsUpdate.log
+0x2290520	\Documents and Settings\Administrator\Desktop\acrobat60.exe
+0x2290978	\Program Files\Mozilla Firefox\plc4.dll
+0x2290d40	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\desktop.ini
+0x22910c8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\desktop.ini
+0x22915a8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\banner_728x90freescan[1].jpg
+0x2292180	\WINDOWS\system32\uniplat.dll
+0x22926c0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2292890	\WINDOWS\system32\rcimlby.exe
+0x2292f90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\msn_b2[1].gif
+0x2293138	\WINDOWS\system32\unimdm.tsp
+0x2294028	\WINDOWS\system32
+0x2294d20	\WINDOWS\system32\ega.cpi
+0x22955c0	\Program Files\Mozilla Firefox\res\html\gopher-telnet.gif
+0x2295a20	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\header[1].gif
+0x2295e20	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr107.tmp
+0x2295eb8	\WINDOWS\system32\vdmdbg.dll
+0x22960e0	\net\NtControlPipe12
+0x2296580	\lsarpc
+0x2296618	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\nav_logo7[1].png
+0x22969c0	\Documents and Settings\All Users\Documents\My Pictures\Desktop.ini
+0x2296ad8	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\parent.lock
+0x2297180	\WINDOWS\system32\wshext.dll
+0x22977b0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[5]
+0x2297c10	\WINDOWS\system32\wsock32.dll
+0x2297cd0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2298028	\WINDOWS\system32\stobject.dll
+0x2298170	\WINDOWS\system32\mlang.dll
+0x2298a38	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2298b58	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2298f90	\WINDOWS\system32\batmeter.dll
+0x2299190	\Program Files\Mozilla Firefox\res\html\gopher-binary.gif
+0x2299428	\WINDOWS\system32\MSIMTF.dll
+0x2299998	\WINDOWS\system32\ddrawex.dll
+0x2299bb8	\WINDOWS\system32\MSIMTF.dll
+0x229a028	\WINDOWS\system32\ddraw.dll
+0x229a4a8	\WINDOWS\system32\dxtmsft.dll
+0x229a560	\WINDOWS\system32\ntdll.dll
+0x229a698	\Program Files\Adobe\Acrobat 6.0\Reader\atl.dll
+0x229ace8	\WINDOWS\system32\webcheck.dll
+0x229adb0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x229b028	\WINDOWS\system32\icfgnt5.dll
+0x229b488	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x229c0f0	\WINDOWS\Fonts\webdings.ttf
+0x229c3e0	\WINDOWS\Fonts\raavi.ttf
+0x229c870	\Documents and Settings\All Users\Start Menu\Programs\Games\Freecell.lnk
+0x229ca40	\Program Files\Mozilla Firefox\searchplugins\eBay.src
+0x229cc98	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x229d090	\WINDOWS\Fonts\latha.ttf
+0x229d830	\$Directory
+0x229dab0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\jquery[1].js
+0x229df90	\WINDOWS\WindowsUpdate.log
+0x229e5e8	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\xpcom_compat.dll
+0x229e690	\WINDOWS\system32\ie4uinit.exe
+0x229fb68	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\profiles.ini
+0x229fc00	\WINDOWS\system32\notepad.exe
+0x229ff90	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\js3250.dll
+0x22a0330	\Documents and Settings\All Users\Application Data\VMware\VMware Tools\manifest.txt
+0x22a0668	\$Directory
+0x22a0788	\Documents and Settings\Administrator\Desktop\acrobat60.exe
+0x22a09b8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22a12e8	\$Directory
+0x22a1978	\WINDOWS\system32\rasdlg.dll
+0x22a2028	\lsass
+0x22a2228	\$Directory
+0x22a22c0	\WINDOWS\system32\xpsp1res.dll
+0x22a2460	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22a2a38	\Endpoint
+0x22a3290	\WINDOWS\system32\msisip.dll
+0x22a39f8	\WINDOWS\system32\dfrgres.dll
+0x22a3b38	\ROUTER
+0x22a3db0	\$Directory
+0x22a3e58	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Disk Cleanup.lnk
+0x22a4028	\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\CD Burning
+0x22a41a0	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\DigSig.api
+0x22a4388	\Documents and Settings\All Users\Start Menu\Windows Update.lnk
+0x22a4590	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Wireless Network Setup Wizard.lnk
+0x22a4728	\WINDOWS\system32\wuauclt.exe
+0x22a5038	\$Directory
+0x22a5148	\WINDOWS\system32\shgina.dll
+0x22a5218	\WINDOWS\system32\ntshrui.dll
+0x22a5750	\WINDOWS\WindowsUpdate.log
+0x22a5cb8	\Documents and Settings\Administrator\Desktop
+0x22a5dc8	\$Directory
+0x22a6028	\WINDOWS\system32\davclnt.dll
+0x22a63f8	\Program Files\Windows Media Player\npdsplay.dll
+0x22a6630	\$Directory
+0x22a7680	\Program Files\VMware\VMware Tools\VMwareTray.exe
+0x22a7718	\Documents and Settings\All Users\Documents\My Videos\Desktop.ini
+0x22a7950	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22a81d8	\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Backgammon.lnk
+0x22a83a8	\WINDOWS\system32\wscntfy.exe
+0x22a8a38	\WINDOWS\Fonts\framd.ttf
+0x22a8cd8	\$Directory
+0x22a8e58	\$Directory
+0x22a9028	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22a90d0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22a9380	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05\mfc80u.dll
+0x22a9418	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05
+0x22a9518	\Program Files\VMware\VMware Tools\sigc-2.0.dll
+0x22aa028	\lsarpc
+0x22aa0e0	\Program Files\Mozilla Firefox\nspr4.dll
+0x22aa4d0	\Endpoint
+0x22aa738	\WINDOWS\Fonts\wingding.ttf
+0x22aa9f8	\WINDOWS\system32\shdoclc.dll
+0x22aade8	\$Directory
+0x22abc98	\Program Files\Adobe\Acrobat 6.0\Reader\JP2KLib.dll
+0x22abd30	\Program Files\Mozilla Firefox
+0x22abdc8	\Program Files\Mozilla Firefox\softokn3.dll
+0x22ac7f8	\Endpoint
+0x22ad028	\Program Files\Mozilla Firefox\defaults\pref\firefox-l10n.js
+0x22ad240	\WINDOWS\WindowsUpdate.log
+0x22ad580	\WINDOWS\system32\tapisrv.dll
+0x22ad8f0	\WINDOWS\WindowsUpdate.log
+0x22adbb8	\Program Files\Mozilla Firefox\components\xpti.dat.tmp
+0x22adef8	\Documents and Settings\Administrator\Recent
+0x22ae2c0	\$Directory
+0x22ae688	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22ae8a0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22aebb0	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22af3e8	\WINDOWS\system32\c_28591.nls
+0x22af4e0	\WINDOWS\system32\atl.dll
+0x22afb50	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Address Book.lnk
+0x22b02e8	\$Directory
+0x22b0940	\Program Files\Mozilla Firefox\js3250.dll
+0x22b0ea8	\Program Files\Mozilla Firefox\components\nsProxyAutoConfig.js
+0x22b0f90	\WINDOWS\system32\vmhgfs.dll
+0x22b4028	\WINDOWS\system32\netui1.dll
+0x22b4af8	\WINDOWS\system32\netrap.dll
+0x22b4f68	\WINDOWS\system32\msimg32.dll
+0x22b8028	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\pluginreg.dat
+0x22b8668	\WINDOWS\system32\aaaamon.dll
+0x22b8ac8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\KonaBase[1].js
+0x22b8ea0	\Program Files\Mozilla Firefox\res\html\gopher-text.gif
+0x22b9250	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\olygrad_2010[1].jpg
+0x22b9460	\WINDOWS\system32\Macromed\Flash\flash.ocx
+0x22b9cd8	\WINDOWS\system32\catsrv.dll
+0x22ba4f0	\WINDOWS\system32\dnsapi.dll
+0x22bb168	\$Directory
+0x22bc648	\WINDOWS\system32\wdmaud.drv
+0x22bcb00	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\New Connection Wizard.lnk
+0x22bd360	\WINDOWS\system32\dxtrans.dll
+0x22bd560	\WINDOWS\system32\shfolder.dll
+0x22be168	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Synchronize.lnk
+0x22bef90	\Program Files\Adobe\Acrobat 6.0\Resource\Font\SY______.PFB
+0x22bf278	\Documents and Settings\All Users\Start Menu
+0x22bf720	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Disk Defragmenter.lnk
+0x22bf820	\WINDOWS\system32\imm32.dll
+0x22bfd18	\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x22c09a0	\$Directory
+0x22c0b48	\WINDOWS\system32\mspatcha.dll
+0x22c0cb0	\WINDOWS\system32\cabinet.dll
+0x22c1df8	\WINDOWS\system32\cscui.dll
+0x22c21c8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22c2f28	\PROGRA~1\MSNGAM~1\Windows\Shvlres.dll
+0x22c31a8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22c3298	\WINDOWS\system32\wuauclt.exe
+0x22c3bf0	\Program Files\Common Files\Microsoft Shared\MSInfo\msinfo32.exe
+0x22c4ef8	\WINDOWS\Fonts\framdit.ttf
+0x22c4f90	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22c50d0	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr110.tmp
+0x22c5a38	\Documents and Settings\All Users\Desktop\Mozilla Firefox.lnk
+0x22c6868	\Program Files\Mozilla Firefox\components\nsPostUpdateWin.js
+0x22c6900	\Endpoint
+0x22c7368	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x22c7468	\WINDOWS\system32\cscui.dll
+0x22c79a0	\WINDOWS\system32\ssdpsrv.dll
+0x22c7b98	\ROUTER
+0x22c9028	\lsass
+0x22c9468	\WINDOWS\system32\midimap.dll
+0x22c9bd8	\WINDOWS\system32\actxprxy.dll
+0x22cadd8	\$Directory
+0x22cbe68	\WINDOWS\system32\w3ssl.dll
+0x22cbf90	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr10C.tmp
+0x22cc0a8	\WINDOWS\system32\browseui.dll
+0x22cc1c0	\WINDOWS\system32\davclnt.dll
+0x22cd358	\$Directory
+0x22cd930	\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\PRINTME_DOWNLOAD.ico
+0x22cdbd8	\Program Files\VMware\VMware Tools\VMwareUser.exe
+0x22cdde0	\$Directory
+0x22ce028	\WINDOWS\system32\wbem\wbemcons.dll
+0x22ce198	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22ceb40	\WINDOWS\system32\oledlg.dll
+0x22cebd8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22cf488	\WINDOWS\system32\browselc.dll
+0x22cf538	\WINDOWS\system32\perfos.dll
+0x22cfd18	\$Directory
+0x22cff28	\WINDOWS\Web\Wallpaper\Bliss.bmp
+0x22d0428	\WINDOWS\system32\msacm32.drv
+0x22d0a40	\WINDOWS\system32\iepeers.dll
+0x22d0ad8	\WINDOWS\system32\c_1253.nls
+0x22d1190	\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\SC_Reader_PM.ico
+0x22d14c0	\Endpoint
+0x22d1618	\WINDOWS\system32\netcfgx.dll
+0x22d1850	\$Directory
+0x22d2c38	\WINDOWS\system32\actxprxy.dll
+0x22d34d8	\Endpoint
+0x22d4998	\Endpoint
+0x22d4b68	\WINDOWS\system32\hnetcfg.dll
+0x22d5f90	\Program Files\Mozilla Firefox\searchplugins\answers.old
+0x22d6028	\WINDOWS\system32
+0x22d70e0	\WINDOWS\WindowsUpdate.log
+0x22d7178	\WINDOWS\system32\wupdmgr.exe
+0x22d7210	\WINDOWS\system32\mfc42.dll
+0x22d7f20	\Documents and Settings\Administrator\Local Settings\History\desktop.ini
+0x22d8be0	\WINDOWS\system32\mshtmled.dll
+0x22d92e0	\Documents and Settings\Administrator\ntuser.dat.LOG
+0x22d9558	\Endpoint
+0x22da0f8	\$Directory
+0x22da3d8	\Documents and Settings\Administrator\Cookies\index.dat
+0x22da470	\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x22dab40	\$Directory
+0x22dabd8	\WINDOWS\SoftwareDistribution\ReportingEvents.log
+0x22dac90	\WINDOWS\system32\wbem\wmiprvsd.dll
+0x22dad60	\WINDOWS\system32\upnp.dll
+0x22daf90	\WINDOWS\WindowsUpdate.log
+0x22db458	\WINDOWS\system32\rtutils.dll
+0x22db6a0	\WINDOWS\system32\clusapi.dll
+0x22db9d0	\Program Files\Mozilla Firefox\greprefs\all.js
+0x22dc1b0	\WINDOWS\system32\mtxclu.dll
+0x22dc4c8	\$Directory
+0x22dc840	\WINDOWS\system32\comsvcs.dll
+0x22dd1b0	\WINDOWS\system32\wscsvc.dll
+0x22ddc08	\WINDOWS\system32\wbem\fastprox.dll
+0x22ddf28	\WINDOWS\system32\wbem\esscli.dll
+0x22de230	\$Directory
+0x22de540	\WINDOWS\system32\wbem\wbemcomn.dll
+0x22de700	\WINDOWS\system32\wbem\wbemprox.dll
+0x22dfe78	\Program Files\Adobe\Acrobat 6.0\Resource\CMap\Identity-V
+0x22e02b0	\WINDOWS\system32\pngfilt.dll
+0x22e04a0	\WINDOWS\system32\pngfilt.dll
+0x22e05a8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Search.api
+0x22e0640	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\SaveAsRTF.api
+0x22e0dd0	\WINDOWS\WindowsUpdate.log
+0x22e1798	\WINDOWS\WindowsUpdate.log
+0x22e2340	\WINDOWS\system32\drprov.dll
+0x22e2520	\Endpoint
+0x22e33b0	\WINDOWS\system32\tourstart.exe
+0x22e4238	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22e42e8	\WINDOWS\system32\mlang.dll
+0x22e4398	\WINDOWS\system32\imm32.dll
+0x22e4430	\WINDOWS\system32\MSCTF.dll
+0x22e4530	\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Scheduled Tasks.lnk
+0x22e4768	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22e48a0	\WINDOWS\system32\linkinfo.dll
+0x22e5028	\W32TIME
+0x22e5150	\WINDOWS\system32\msxml3r.dll
+0x22e51e8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22e5550	\WINDOWS\system32\browser.dll
+0x22e62a0	\lsass
+0x22e6338	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22e6e00	\Program Files\VMware\VMware Tools\plugins\vmsvc\hgfsUsability.dll
+0x22e8370	\WINDOWS\system32
+0x22e8650	\Documents and Settings\Administrator\Favorites\Desktop.ini
+0x22e8988	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\ie6_25[2].css
+0x22e91d0	\net\NtControlPipe9
+0x22e9d88	\WINDOWS\system32\vbscript.dll
+0x22ea710	\$Directory
+0x22eaa98	\$Directory
+0x22eb5c8	\WINDOWS\system32\atmfd.dll
+0x22eb660	\Program Files\Adobe\Acrobat 6.0\Reader\Ace.dll
+0x22eb780	\Program Files\VMware\VMware Tools\plugins\vmsvc\hgfsServer.dll
+0x22eb988	\WINDOWS\WindowsUpdate.log
+0x22eba20	\WINDOWS\WindowsUpdate.log
+0x22ebab8	\WINDOWS\WindowsUpdate.log
+0x22ebb50	\WINDOWS\WindowsUpdate.log
+0x22ebbe8	\WINDOWS\WindowsUpdate.log
+0x22ebc80	\WINDOWS\WindowsUpdate.log
+0x22eccd0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22ecef8	\WINDOWS\system32\wuauserv.dll
+0x22f11b0	\Endpoint
+0x22f13a8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f1440	\WINDOWS\system32\wuaueng.dll
+0x22f1568	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f1688	\PCHFaultRepExecPipe
+0x22f17a0	\PCHHangRepExecPipe
+0x22f1df8	\WINDOWS\system32\dmserver.dll
+0x22f2028	\WINDOWS\system32\wbem\framedyn.dll
+0x22f2178	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\e.exe
+0x22f2578	\Program Files\VMware\VMware Tools\vmtools.dll
+0x22f2728	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f2a68	\Program Files\VMware\VMware Tools\gthread-2.0.dll
+0x22f2c18	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f2de8	\WINDOWS\system32\es.dll
+0x22f3638	\WINDOWS\system32\credui.dll
+0x22f3878	\WINDOWS\system32\wzcsapi.dll
+0x22f3ba8	\WINDOWS\system32\netshell.dll
+0x22f3cc8	\WINDOWS\system32\netman.dll
+0x22f4820	\255
+0x22f48b8	\Endpoint
+0x22f4e78	\Endpoint
+0x22f4f40	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\xpcom_core.dll
+0x22f5128	\Program Files\VMware\VMware Tools\plugins\vmsvc\guestInfo.dll
+0x22f5338	\WINDOWS\system32\uxtheme.dll
+0x22f54b8	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f5688	\WINDOWS\WindowsUpdate.log
+0x22f5830	\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x22f5bc0	\Program Files\VMware\VMware Tools\plugins\vmsvc\autoUpgrade.dll
+0x22f6360	\$Directory
+0x22f6f90	\Program Files\VMware\VMware Tools\plugins\vmsvc\resolutionSet.dll
+0x22f7028	\WINDOWS\WindowsUpdate.log
+0x22f70e8	\WINDOWS\WindowsUpdate.log
+0x22f7180	\WINDOWS\WindowsUpdate.log
+0x22f7218	\WINDOWS\WindowsUpdate.log
+0x22f72b0	\WINDOWS\WindowsUpdate.log
+0x22f7348	\WINDOWS\WindowsUpdate.log
+0x22f73e0	\WINDOWS\WindowsUpdate.log
+0x22f7c98	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Program Compatibility Wizard.lnk
+0x22f7e78	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x22f7f90	\WINDOWS\system32\msi.dll
+0x22f8068	\Program Files\Mozilla Firefox\uninstall\install_wizard1.log
+0x22f8d18	\WINDOWS\system32\psbase.dll
+0x22f8e90	\Program Files\VMware\VMware Tools\plugins\vmsvc\vix.dll
+0x22f9bd0	\WINDOWS\system32\ntkrnlpa.exe
+0x22f9f28	\Program Files\VMware\VMware Tools\plugins\vmsvc\timeSync.dll
+0x22fa650	\Endpoint
+0x22fb510	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\pipe[1].gif
+0x22fb5b0	\WINDOWS\WindowsUpdate.log
+0x22fb988	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Narrator.lnk
+0x22fbde0	\WINDOWS\system32\kmddsp.tsp
+0x22fc8e0	\Documents and Settings\Administrator
+0x22fc978	\Program Files\VMware\VMware Tools\plugins\vmsvc\deployPkgPlugin.dll
+0x22fcaa0	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Network Setup Wizard.lnk
+0x22fcb68	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x22fcef0	\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x22fd128	\trkwks
+0x22fe188	\WINDOWS\system32\msacm32.drv
+0x22fe6c8	\WINDOWS\system32\wbem\repdrvfs.dll
+0x22fe9d8	\EVENTLOG
+0x22fede0	\$Directory
+0x22fff90	\WINDOWS\system32\sens.dll
+0x2300c50	\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+0x2300f28	\$Directory
+0x2301518	\WINDOWS\system32\vssapi.dll
+0x2301708	\WINDOWS\system32\srsvc.dll
+0x2302620	\WINDOWS\system32\msidle.dll
+0x23029d8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[4]
+0x2302a90	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Annotations\Annots.api
+0x23044c8	\WINDOWS\system32\shgina.dll
+0x23047b0	\WINDOWS\SchedLgU.Txt
+0x2305720	\Program Files\Mozilla Firefox\components\nsUpdateService.js
+0x2305838	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\render_ads[2].js
+0x2305a68	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olybg_2010[1].gif
+0x2306128	\lsass
+0x2306270	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\_ers_ocjkiU[2].js
+0x2306830	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\test_domain[2].js
+0x2306940	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\history.dat
+0x23069d8	\Endpoint
+0x2306ba8	\Documents and Settings\All Users\Start Menu\Programs\Games\Pinball.lnk
+0x2307d60	\Program Files\Mozilla Firefox\res\html\gopher-movie.gif
+0x2308b90	\Program Files\Mozilla Firefox\defaults\profile\localstore.rdf
+0x2308d80	\Program Files\Mozilla Firefox\smime3.dll
+0x2308ef8	\Documents and Settings\Administrator\Application Data\Microsoft\CryptnetUrlCache\MetaData\486CC6AFD08942336C61FCD401C4A1D1
+0x2308f90	\WINDOWS\system32\shell32.dll
+0x23093d0	\WINDOWS\system32\esent.dll
+0x2309730	\WINDOWS\system32\wmi.dll
+0x2309908	\$SetEndOfFileInfo
+0x2309a08	\WINDOWS\system32\rtutils.dll
+0x2309b70	\WINDOWS\system32\wzcsvc.dll
+0x230a178	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[5]
+0x230aa08	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\utilities[1].gif
+0x230aaa0	\Program Files\Mozilla Firefox\components\compreg.dat.tmp
+0x230abe8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x230acb8	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\ImageViewer\ImageViewer.API
+0x230b028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\kvrc[1].png
+0x230b190	\Endpoint
+0x230b400	\WINDOWS\WindowsUpdate.log
+0x230b860	\Program Files\Mozilla Firefox\xpcom_core.dll
+0x230be08	\WINDOWS\WindowsUpdate.log
+0x230c188	\$Directory
+0x230c840	\Topology
+0x230cb40	\WINDOWS\system32\wbem\wbemsvc.dll
+0x230cf90	\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x230ef90	\atsvc
+0x230f3b8	\WINDOWS\system32\mswsock.dll
+0x230f558	\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Checkers.lnk
+0x230ff28	\WINDOWS\system32\sdra64.exe
+0x2310028	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Notepad.lnk
+0x2310428	\$Directory
+0x2310bd8	\WINDOWS\Registration\R000000000007.clb
+0x2313188	\WINDOWS\system32\regsvc.dll
+0x2313220	\Program Files\VMware\VMware Tools\vmtoolsd.exe
+0x2313338	\winlogonrpc
+0x2313ba8	\PROGRA~1\MOVIEM~1\WMM2RES.dll
+0x2313f90	\WINDOWS\system32\spider.exe
+0x2314838	\PROGRA~1\MSNGAM~1\Windows\bckgres.dll
+0x23148d8	\ROUTER
+0x2314970	\Program Files\Messenger\msmsgs.exe
+0x2314b70	\WINDOWS\system32\mprapi.dll
+0x2314d18	\Endpoint
+0x2314f28	\WINDOWS\system32\acctres.dll
+0x23150e8	\Program Files\Mozilla Firefox\chrome\browser.manifest
+0x23156c8	\lsass
+0x2315bd0	\WINDOWS\Fonts\arial.ttf
+0x2315d18	\WINDOWS\system32\winrnr.dll
+0x23161c8	\WINDOWS\system32
+0x2316650	\net\NtControlPipe4
+0x2316a80	\$Directory
+0x2316de8	\Documents and Settings\All Users\Desktop\Adobe Reader 6.0.lnk
+0x2316f90	\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303\mfc80ENU.dll
+0x2317028	\lsarpc
+0x23170f0	\lsass
+0x2317328	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\eBook.api
+0x2317428	\Program Files\Mozilla Firefox\res\entityTables\transliterate.properties
+0x2317600	\WINDOWS\system32\mshtml.dll
+0x2317820	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\KonaLibInline[1].js
+0x2317950	\Program Files\Mozilla Firefox\searchplugins\yahoo.src
+0x23182f8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\olysilverbg_2010[1].gif
+0x2318520	\WINDOWS\Fonts\palabi.ttf
+0x23185b8	\WINDOWS\Media\Windows XP Start.wav
+0x2319cb0	\WINDOWS\system32\xpsp2res.dll
+0x2319d78	\net\NtControlPipe3
+0x2319f58	\WINDOWS\system32\rpcss.dll
+0x231aa98	\$Directory
+0x231b7d8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\video[1].gif
+0x231e088	\WINDOWS\system32\mui\0416
+0x231e1b0	\WINDOWS\system32\mui\0415
+0x231e2d8	\WINDOWS\system32\mui\0414
+0x231e400	\WINDOWS\system32\mui\0413
+0x231e528	\WINDOWS\system32\mui\0412
+0x231e650	\WINDOWS\system32\mui\0411
+0x231e778	\WINDOWS\system32\mui\0410
+0x231e8a0	\WINDOWS\system32\mui\040e
+0x231e9c8	\WINDOWS\system32\mui\040D
+0x231eaf0	\WINDOWS\system32\mui\040C
+0x231ec18	\WINDOWS\system32\mui\040b
+0x231ed40	\WINDOWS\system32\mui\0408
+0x231ee68	\WINDOWS\system32\mui\0407
+0x231ef90	\WINDOWS\system32\mui\0406
+0x231f028	\Program Files\Internet Explorer
+0x231f0e8	\WINDOWS\ime\imkr6_1
+0x231f2c0	\Program Files\Common Files\Microsoft Shared\MSInfo
+0x231f870	\$Directory
+0x231f908	\Program Files\Internet Explorer\Connection Wizard
+0x231fa30	\WINDOWS\system32\xircom
+0x231fd00	\WINDOWS\ime\imkr6_1\applets
+0x231fe28	\WINDOWS\ime\imjp8_1\applets
+0x231ff28	\net\NtControlPipe9
+0x2320320	\Program Files\Windows Media Player
+0x23204c8	\WINDOWS\system32\clbcatq.dll
+0x2320560	\WINDOWS\system32\winscard.dll
+0x2320798	\Program Files\Common Files\Microsoft Shared\DAO
+0x2320830	\WINDOWS
+0x23208c8	\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi
+0x2320af0	\protected_storage
+0x2320c08	\protected_storage
+0x2321518	\WINDOWS\system32\webclnt.dll
+0x2322888	\$Directory
+0x2322e68	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[2]
+0x2323760	\WINDOWS\WindowsUpdate.log
+0x23258d0	\WINDOWS\system32\ncobjapi.dll
+0x23259e8	\DAV RPC SERVICE
+0x2325a80	\WINDOWS\Fonts\script.fon
+0x2326140	\WINDOWS\system32\secur32.dll
+0x23264b8	\WINDOWS\system32\msacm32.dll
+0x2326b80	\WINDOWS\system32\winmm.dll
+0x2326f90	\WINDOWS\AppPatch\AcGenral.dll
+0x2327430	\WINDOWS\system32\shdoclc.dll
+0x2328280	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2328590	\WINDOWS\system32\iphlpapi.dll
+0x2328988	\WINDOWS\Fonts\marlett.ttf
+0x2328dc0	\ntsvcs
+0x2328ef8	\Endpoint
+0x2328f90	\WINDOWS\Fonts\tahoma.ttf
+0x23292e0	\WINDOWS\system32\winlogon.exe
+0x23296d0	\WINDOWS\Fonts\tahomabd.ttf
+0x234f028	\WINDOWS\system32\imagehlp.dll
+0x234fe88	\lsarpc
+0x23f0c40	\WINDOWS\system32\olethk32.dll
+0x2409338	\WINDOWS\WinSxS\Policies\x86_policy.6.0.Microsoft.Windows.Common-Controls_6595b64144ccf1df_x-ww_5ddad775\6.0.2600.2180.Policy
+0x24100e8	\Program Files\Mozilla Firefox\res\fonts\fontEncoding.properties
+0x24137f8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2413890	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24142b8	\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Reversi.lnk
+0x2414e58	\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\XUL.mfl
+0x2414ef8	\WINDOWS\system32\mshearts.exe
+0x2414f90	\WINDOWS\system32\filemgmt.dll
+0x2416028	\Program Files\Mozilla Firefox\res\fonts\fontNameMap.properties
+0x24160e8	\Program Files\Adobe\Acrobat 6.0\Reader\Bib.dll
+0x2416180	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\Volume Control.lnk
+0x2416240	\WINDOWS\system32\xpsp3res.dll
+0x2416d68	\WINDOWS\system32\Restore\rstrui.exe
+0x2417c88	\Documents and Settings\All Users\Start Menu\Programs\PrintMe Internet Printing\Download Driver.lnk
+0x24185e8	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarks.html
+0x24189f8	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\AcroIEHelper.dll
+0x2418a90	\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\AcroIEHelper.dll
+0x2418b28	\Documents and Settings\All Users\Start Menu\Programs\MSN.lnk
+0x2418c58	\WINDOWS\WindowsUpdate.log
+0x2418e10	\WINDOWS\WindowsUpdate.log
+0x2418ef8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2418f90	\Documents and Settings\All Users\Start Menu\Programs\Accessories\Accessibility\desktop.ini
+0x2419468	\Program Files\Mozilla Firefox\xpcom_compat.dll
+0x2419500	\_AVIRA_2108
+0x24196a0	\WINDOWS\system32\sol.exe
+0x2419738	\WINDOWS\WindowsUpdate.log
+0x2419868	\WINDOWS\WindowsUpdate.log
+0x2419900	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Accessibility.api
+0x2419e68	\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\chrome\userContent-example.css
+0x2419f90	\Program Files\Mozilla Firefox\res\html\gopher-sound.gif
+0x241a2e0	\WINDOWS\system32\wzcdlg.dll
+0x241a4d8	\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Utility Manager.lnk
+0x241a570	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[7]
+0x241a6b8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[5]
+0x241ae10	\WINDOWS\system32\mshtml.tlb
+0x241bf90	\Program Files\Mozilla Firefox\nssckbi.dll
+0x241c028	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\sma8[1].js
+0x241c648	\$Directory
+0x241f5b8	\$Directory
+0x241fa90	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PDDom.api
+0x2420488	\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PPKLite.api
+0x2420848	\lsarpc
+0x2420b50	\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\zx______.pfm
+0x2420e58	\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\zy______.pfm
+0x2421aa8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olyrbg_2010[1].gif
+0x2421b40	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\olygbtn_2010[1].gif
+0x2423260	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\graphics[1].gif
+0x2423820	\$Directory
+0x2423df0	\$Directory
+0x2424168	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\ftp[1].gif
+0x2424280	\$Directory
+0x2424320	\wkssvc
+0x24245b0	\WINDOWS\WindowsUpdate.log
+0x2424718	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\filesharing[1].gif
+0x2424ae8	\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\Annots.js
+0x2424c10	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\internet[1].gif
+0x2425d10	\Documents and Settings\All Users\Start Menu\Programs\Games\Solitaire.lnk
+0x24262f8	\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\desktop.ini
+0x2427038	\$Directory
+0x2427228	\$Directory
+0x2427450	\WINDOWS\WindowsUpdate.log
+0x2428028	\Program Files\Mozilla Firefox\res\html\gopher-menu.gif
+0x2428418	\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\addfile.gif
+0x2428c88	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\firefox1502[1].exe
+0x2429b08	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[6]
+0x243c7d0	\Program Files\Mozilla Firefox\softokn3.chk
+0x244e028	\lsass
+0x2456028	\WINDOWS\system32\mstlsapi.dll
+0x24565e8	\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x2456720	\WINDOWS\system32\wshtcpip.dll
+0x2457a00	\WINDOWS\system32\ole32.dll
+0x245d4d0	\$Mft
+0x245e928	\Program Files\Mozilla Firefox\plugins\npnul32.dll
+0x245fc58	\$Directory
+0x245ff90	\Program Files\MSN Gaming Zone\Windows\chkrzm.exe
+0x24620d8	\$Directory
+0x2462678	\Documents and Settings\NetworkService\NTUSER.DAT
+0x2462e90	\WINDOWS\system32\config\SysEvent.Evt
+0x2463390	\WINDOWS\system32\config\SecEvent.Evt
+0x2463638	\WINDOWS\system32\config\AppEvent.Evt
+0x24639b0	\_AVIRA_2109
+0x2464028	\WINDOWS\system32\sdra64.exe
+0x2465028	\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x2465308	\net\NtControlPipe0
+0x2465440	\WINDOWS\system32\duser.dll
+0x24654e0	\lsass
+0x24656c8	\net\NtControlPipe7
+0x2465e58	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x2466af8	\WINDOWS\system32
+0x24679e0	\SfcApi
+0x2467ac8	\SfcApi
+0x246a180	\Program Files\Common Files\SpeechEngines\Microsoft\TTS\1033
+0x246a2a8	\WINDOWS\system32\Restore
+0x246a440	\WINDOWS\ime\chsime\applets
+0x246a5e8	\WINDOWS\system32\msacm32.dll
+0x246a680	\WINDOWS\system32\shfolder.dll
+0x246aaa0	\Program Files\Windows NT\Pinball
+0x246abc8	\WINDOWS\ime\shared\res
+0x246ae18	\WINDOWS\system32\spoolss.dll
+0x246af40	\WINDOWS\system32\npp
+0x246b6f0	\Program Files\Common Files\Microsoft Shared\web server extensions\40\admisapi\scripts
+0x246b948	\Program Files\Common Files\Microsoft Shared\web server extensions\40\admcgi\scripts
+0x246ba70	\Program Files\VMware\VMware Tools\vmacthlp.exe
+0x246bc00	\WINDOWS\system32\1033
+0x246bc98	\Program Files\Common Files\System
+0x246c220	\WINDOWS\system32\IME\CINTLGNT
+0x246c668	\WINDOWS\system32\wbem
+0x246c870	\$Directory
+0x246ce08	\scerpc
+0x246cf90	\scerpc
+0x246dc20	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x246df90	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[4]
+0x246e028	\Program Files\Mozilla Firefox\searchplugins\google.src
+0x246e328	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\oly_pipe_2010[1].gif
+0x246ef90	\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\plc4.dll
+0x246f360	\$Directory
+0x246f5f0	\$Directory
+0x246f8f0	\$Directory
+0x246fc10	\$Directory
+0x246ff90	\WINDOWS\system32\sxs.dll
+0x24701d0	\WINDOWS\system32\wbem\wmiutils.dll
+0x24710e8	\WINDOWS\Fonts\trebucit.ttf
+0x2471bd0	\WINDOWS\system32\rasmontr.dll
+0x2472598	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\5146F629B72E6A89B01B5FF61E30B8[1].gif
+0x2472698	\WINDOWS\system32\imgutil.dll
+0x2472ab0	\Program Files\Adobe\Acrobat 6.0\Reader\Updater\bootstrap.js
+0x2472b98	\WINDOWS\WindowsUpdate.log
+0x24741c8	\WINDOWS\system32\csrss.exe
+0x2475118	\WINDOWS\system32\winsta.dll
+0x24764b0	\WINDOWS\system32\schannel.dll
+0x24766b0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x24a4210	\WINDOWS\system32\sorttbls.nls
+0x24a7500	\lsarpc
+0x24bf6a8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24bfc28	\pagefile.sys
+0x24c09c8	\WINDOWS\system32\12520850.cpx
+0x24c0b50	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24c0f90	\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x24c1070	\WINDOWS\system32\version.dll
+0x24c1340	\WINDOWS\system32\user32.dll
+0x24c1630	\WINDOWS\system32\urlmon.dll
+0x24c19d0	\WINDOWS\system32\url.dll
+0x24c1ca0	\WINDOWS\system32\shell32.dll
+0x24c1f90	\WINDOWS\system32\rpcrt4.dll
+0x24c2310	\WINDOWS\system32\shdocvw.dll
+0x24c2620	\WINDOWS\system32\wow32.dll
+0x24c2728	\WINDOWS\system32\nddeapi.dll
+0x24ccc38	\WINDOWS\Fonts\comicbd.ttf
+0x24cda68	\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\_REGISTRY_MACHINE_SYSTEM
+0x24d1570	\WINDOWS\system32
+0x24d1690	\WINDOWS\system32\12520437.cpx
+0x24d1980	\WINDOWS\system32\config\default.LOG
+0x24d1a18	\WINDOWS\system32\config\SAM.LOG
+0x24d2028	\$Directory
+0x24d21d8	\WINDOWS\system32\config\system.LOG
+0x24d2270	\WINDOWS\system32\config\software.LOG
+0x24d2308	\WINDOWS\system32\config\SECURITY.LOG
+0x24d2538	\WINDOWS\system32\config\SAM
+0x24d26d0	\WINDOWS\WindowsUpdate.log
+0x24d28a8	\WINDOWS\system32\config\default
+0x24d2c18	\WINDOWS\system32\config\system
+0x24d2df0	\WINDOWS\system32\config\software
+0x24d30c0	\WINDOWS\system32\config\SECURITY
+0x24d6740	\WINDOWS
+0x24d6840	\WINDOWS\system32
+0x24da598	\WINDOWS\system32\ctype.nls
+0x24dabb0	\WINDOWS\system32\ipsecsvc.dll
+0x24df158	\WINDOWS\system32\sndvol32.exe
+0x24df298	\winlogonrpc
+0x24df4b0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24df670	\$Directory
+0x24df868	\lsarpc
+0x24df9b8	\WINDOWS\Tasks
+0x24dfad0	\WINDOWS\system32\acelpdec.ax
+0x24dfbd0	\WINDOWS\system32\spoolsv.exe
+0x24e0b28	\net\NtControlPipe4
+0x24e0bf0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24e3618	\$Directory
+0x24e36b0	\$Directory
+0x24e3ea0	\WINDOWS\system32\lowsec\local.ds
+0x24e4650	\WINDOWS\system32\eventlog.dll
+0x24e4838	\Winsock2\CatalogChangeListener-3b4-0
+0x24e5038	\$Directory
+0x24e5cd0	\WINDOWS\system32\winmm.dll
+0x24e8028	\WINDOWS\system32\mui\0426
+0x24e8c20	\WINDOWS\WinSxS
+0x24e8dd8	\Program Files\xerox\nwwia
+0x24e8f00	\WINDOWS\system32\mui\0427
+0x24e9028	\net\NtControlPipe1
+0x24e90d8	\WINDOWS\mui
+0x24e9290	\Program Files\Common Files\MSSoap\Binaries\Resources\1033
+0x24e9448	\Program Files\Common Files\MSSoap\Binaries
+0x24e9530	\WINDOWS\system32\oobe
+0x24e9688	\Program Files\Outlook Express
+0x24e9880	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll
+0x24e9a30	\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x24e9bc0	\WINDOWS\srchasst
+0x24e9c58	\WINDOWS\ime
+0x24e9f10	\lsarpc
+0x24ea2b8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24eac18	\WINDOWS\system32\scecli.dll
+0x24eb138	\WINDOWS\inf
+0x24eb2e0	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grey_loader[1].gif
+0x24eb378	\WINDOWS\system32\wtsapi32.dll
+0x24eb5b0	\Program Files\Common Files\System\Ole DB
+0x24eb978	\Program Files\Common Files\System\ado
+0x24ebc98	\$Directory
+0x24ebf68	\Program Files\Common Files\System\msadc
+0x24ec528	\WINDOWS\AppPatch\sysmain.sdb
+0x24ec760	\Documents and Settings\Administrator\Local Settings\Application Data
+0x24ec7f8	\WINDOWS\system32\services.exe
+0x24ecdf8	\InitShutdown
+0x24ed2d8	\WINDOWS\system32\sxs.dll
+0x24ed3a0	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24ed710	\WINDOWS\system32\odbc32.dll
+0x24edf40	\WINDOWS\system32\msgina.dll
+0x24ee380	\DAV RPC SERVICE
+0x24ee580	\WINDOWS\Fonts\roman.fon
+0x24eeb88	\TerminalServer\AutoReconnect
+0x24f0028	\WINDOWS\system32\imgutil.dll
+0x24f00e8	\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\new[1].gif
+0x24f01e0	\WINDOWS\Fonts\lucon.ttf
+0x24f0510	\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x24f3028	\WINDOWS\system32\setupapi.dll
+0x24f3448	\WINDOWS\system32\perfdisk.dll
+0x24f3b40	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24f43c8	\WINDOWS\system32\wbem\wbemess.dll
+0x24f4460	\WINDOWS\Fonts\trebucbd.ttf
+0x24f4990	\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\index.dat
+0x24f4ca8	\WINDOWS\system32\dllcache
+0x24f4e28	\WINDOWS\system32\wbem\Repository\FS\INDEX.BTR
+0x24f4ec0	\WINDOWS\Fonts\sserife.fon
+0x24f51b8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x24f5360	\WINDOWS\system32\wbem\Repository\FS\OBJECTS.DATA
+0x24f53f8	\WINDOWS\Fonts\coure.fon
+0x24f5890	\WINDOWS\system32\wbem\Repository\FS\OBJECTS.MAP
+0x24f5928	\WINDOWS\Fonts\wst_swed.fon
+0x24f5c78	\lsass
+0x24f5dc0	\WINDOWS\system32\wbem\Repository\FS\INDEX.MAP
+0x24f5e58	\WINDOWS\Fonts\wst_span.fon
+0x24f6210	\WINDOWS\system32\wbem\Repository\FS\MAPPING.VER
+0x24f62a8	\WINDOWS\Fonts\wst_ital.fon
+0x24f6740	\WINDOWS\system32\wbem\Repository\FS\MAPPING2.MAP
+0x24f67d8	\WINDOWS\Fonts\wst_germ.fon
+0x24f69e0	\WINDOWS\system32\kerberos.dll
+0x24f6d08	\WINDOWS\Fonts\wst_fren.fon
+0x2509a88	\WINDOWS\system32\wldap32.dll
+0x2509d58	\WINDOWS\system32\wininet.dll
+0x250a8c8	\lsarpc
+0x250ae10	\WINDOWS\system32\mpr.dll
+0x250b328	\WINDOWS\system32\netlogon.dll
+0x250b838	\WINDOWS\Debug\PASSWD.LOG
+0x250c398	\WINDOWS\Fonts\vgafix.fon
+0x25349b8	\WINDOWS\system32\msencode.dll
+0x253b200	\$Directory
+0x253b6c8	\WINDOWS\system32\winsrv.dll
+0x256a1d0	\$LogFile
+0x25841d0	\$MftMirr
+0x25b3dd8	\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x25e3788	\Program Files\Mozilla Firefox\components\nsXmlRpcClient.js

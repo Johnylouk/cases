@@ -1,0 +1,27 @@
+Volatility 3 Framework 2.28.2
+
+Variable	Value
+
+Kernel Base	0x804d7000
+DTB	0x319000
+Symbols	file:///home/ioannis/dfir-tools/volatility3/.venv/lib/python3.12/site-packages/volatility3/symbols/windows/ntkrnlpa.pdb/BD8F451F3E754ED8A34B50560CEB08E3-1.json.xz
+Is64Bit	False
+IsPAE	True
+layer_name	0 WindowsIntelPAE
+memory_layer	1 FileLayer
+KdDebuggerDataBlock	0x80544ce0
+NTBuildLab	2600.xpsp_sp2_rtm.040803-2158
+CSDVersion	2
+KdVersionBlock	0x80544cb8
+Major/Minor	15.2600
+MachineType	332
+KeNumberProcessors	1
+SystemTime	2010-02-27 20:12:38+00:00
+NtSystemRoot	C:\WINDOWS
+NtProductType	NtProductWinNt
+NtMajorVersion	5
+NtMinorVersion	1
+PE MajorOperatingSystemVersion	5
+PE MinorOperatingSystemVersion	1
+PE Machine	332
+PE TimeDateStamp	Wed Aug  4 05:58:36 2004

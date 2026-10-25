@@ -1,0 +1,25 @@
+Evidence ID: E001
+
+Description:
+Windows 10 Pro workstation disk image
+
+Original source:
+DESKTOP-2R3AR22
+
+Acquisition date:
+2026-10-02
+
+Acquisition format:
+vhd
+
+Image size:
+1,923,557,376 bytes
+
+SHA-256:
+2C29D0B089560029EF528E1660C02AA578606BBE1F4D4F4A54EDECFECD5B8671
+
+Acquired by:
+-
+
+Storage:
+CASE-002/evidence/original/E001/

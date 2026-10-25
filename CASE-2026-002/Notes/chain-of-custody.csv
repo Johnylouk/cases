@@ -1,0 +1,7 @@
+Timestamp,Person,Action,Evidence ID,Location,Notes
+2026-10-02 13:45 CEST,Ioannis,Received E001 from lab evidence repository.,E001,Lab Storage,c125-SpottedInTheWild
+2026-10-02 13:50 CEST,Ioannis,SHA-256 Calculated.,E001,Forensic Workstation,
+2026-10-02 13:52 CEST,Ioannis,Created Working Copy.,E001,Forensic Workstation,c125-SpottedInTheWild
+2026-10-02 13:55 CEST,Ioannis,SHA-256 Verified.,E001,Forensic Workstation,Match
+2026-10-02 14:00 CEST,Ioannis,Started analysis of E001.,E001,Analysis Workstation,
+2026-10-02 14:45 CEST,Ioannis,Extracted Exfiltration Evidence,E001,Analysis Workstation,BL4356.txt

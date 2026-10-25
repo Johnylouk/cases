@@ -1,0 +1,5 @@
+Event,Source,Description,Timestamp,Notes
+1,MFTScan,MFT SI entry for PDF.php,2010-02-27 20:12:28.2726250 UTC,Entry Point
+2,MFTScan,MFT SI entry for e.exe,2010-02-27 20:12:32.8038750 UTC,Temporary Executable
+3,MFTScan,MFT SI entry for sdra64.exe,2010-02-27 20:12:34.3820000 UTC,Proper Executable
+4,RECmd,Las write time for Winlogon hive,2010-02-27 20:12:34.3820000 UTC,Persistence Established

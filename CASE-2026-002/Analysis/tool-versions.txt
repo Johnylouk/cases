@@ -1,0 +1,2 @@
+PowerShell 5.1.26100.9444
+Autopsy 4.21.0

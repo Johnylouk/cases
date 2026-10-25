@@ -1,0 +1,31 @@
+Volatility 3 Framework 2.28.2
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	Audit	Cmd	Path
+
+4	0	System	0x823c8830	58	573	N/A	False	N/A	N/A	-	-	-
+* 548	4	smss.exe	0x81f04228	3	21	N/A	False	2010-02-26 03:34:02.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\smss.exe	\SystemRoot\System32\smss.exe	\SystemRoot\System32\smss.exe
+** 644	548	winlogon.exe	0x81e5b2e8	21	521	0	False	2010-02-26 03:34:04.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\winlogon.exe	winlogon.exe	\??\C:\WINDOWS\system32\winlogon.exe
+*** 688	644	services.exe	0x82256da0	16	293	0	False	2010-02-26 03:34:05.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\services.exe	C:\WINDOWS\system32\services.exe	C:\WINDOWS\system32\services.exe
+**** 2024	688	alg.exe	0x820d6b88	7	130	0	False	2010-02-26 03:34:35.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\alg.exe	C:\WINDOWS\System32\alg.exe	C:\WINDOWS\System32\alg.exe
+**** 1384	688	svchost.exe	0x82209640	9	101	0	False	2010-02-27 20:12:36.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k HTTPFilter	C:\WINDOWS\System32\svchost.exe
+**** 1100	688	svchost.exe	0x81dea020	6	96	0	False	2010-02-26 03:34:07.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService	C:\WINDOWS\system32\svchost.exe
+**** 1836	688	VMUpgradeHelper	0x81ddd8d0	4	108	0	False	2010-02-26 03:34:34.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe	"C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe" /service	C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe
+**** 880	688	svchost.exe	0x82266870	28	340	0	False	2010-02-26 03:34:07.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\system32\svchost -k DcomLaunch	C:\WINDOWS\system32\svchost.exe
+**** 1040	688	svchost.exe	0x822ea020	83	1515	0	False	2010-02-26 03:34:07.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs	C:\WINDOWS\System32\svchost.exe
+***** 440	1040	wuauclt.exe	0x81c80c78	8	188	0	False	2010-02-27 19:48:49.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\wuauclt.exe	"C:\WINDOWS\system32\wuauclt.exe" /RunStoreAsComServer Local\[410]SUSDSc1ff345488bae64ca95cff6e5753d14f	C:\WINDOWS\system32\wuauclt.exe
+***** 232	1040	wuauclt.exe	0x8221a020	4	136	0	False	2010-02-27 19:49:11.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\wuauclt.exe	"C:\WINDOWS\system32\wuauclt.exe"	C:\WINDOWS\system32\wuauclt.exe
+***** 1132	1040	wscntfy.exe	0x81cee5f8	1	38	0	False	2010-02-26 03:34:40.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\wscntfy.exe	C:\WINDOWS\system32\wscntfy.exe	C:\WINDOWS\system32\wscntfy.exe
+**** 948	688	svchost.exe	0x822e1da0	10	276	0	False	2010-02-26 03:34:07.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\system32\svchost -k rpcss	C:\WINDOWS\system32\svchost.exe
+**** 852	688	vmacthlp.exe	0x81d3f020	1	35	0	False	2010-02-26 03:34:06.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\VMware\VMware Tools\vmacthlp.exe	"C:\Program Files\VMware\VMware Tools\vmacthlp.exe"	C:\Program Files\VMware\VMware Tools\vmacthlp.exe
+**** 1460	688	spoolsv.exe	0x81dde568	11	129	0	False	2010-02-26 03:34:10.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\spoolsv.exe	C:\WINDOWS\system32\spoolsv.exe	C:\WINDOWS\system32\spoolsv.exe
+**** 244	688	msiexec.exe	0x82333620	5	181	0	False	2010-02-26 03:46:06.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\msiexec.exe	C:\WINDOWS\system32\msiexec.exe /V	C:\WINDOWS\system32\msiexec.exe
+***** 452	244	msiexec.exe	0x81ce1af8	0	-	0	False	2010-02-26 03:46:07.000000 UTC	2010-02-26 03:46:28.000000 UTC	\Device\HarddiskVolume1\WINDOWS\system32\msiexec.exe	-	-
+**** 1244	688	svchost.exe	0x81de55f0	19	239	0	False	2010-02-26 03:34:08.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService	C:\WINDOWS\system32\svchost.exe
+**** 1628	688	vmtoolsd.exe	0x821018b0	5	220	0	False	2010-02-26 03:34:25.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\VMware\VMware Tools\vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"	C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+*** 700	644	lsass.exe	0x82129da0	22	416	0	False	2010-02-26 03:34:06.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\lsass.exe	C:\WINDOWS\system32\lsass.exe	C:\WINDOWS\system32\lsass.exe
+** 612	548	csrss.exe	0x822eeda0	12	423	0	False	2010-02-26 03:34:04.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\system32\csrss.exe	C:\WINDOWS\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,3072,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16	\??\C:\WINDOWS\system32\csrss.exe
+1756	1660	explorer.exe	0x81cdd790	14	345	0	False	2010-02-26 03:34:38.000000 UTC	N/A	\Device\HarddiskVolume1\WINDOWS\explorer.exe	C:\WINDOWS\Explorer.EXE	C:\WINDOWS\Explorer.EXE
+* 888	1756	firefox.exe	0x82068020	9	172	0	False	2010-02-27 20:11:53.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\Mozilla Firefox\firefox.exe	"C:\Program Files\Mozilla Firefox\firefox.exe" 	C:\Program Files\Mozilla Firefox\firefox.exe
+** 1752	888	AcroRd32.exe	0x820618c8	8	184	0	False	2010-02-27 20:12:23.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\AcroRd32.exe	"C:\Program Files\Adobe\Acrobat 6.0\Reader\AcroRd32.exe" /o	C:\Program Files\Adobe\Acrobat 6.0\Reader\AcroRd32.exe
+* 1108	1756	VMwareTray.exe	0x81ca96f0	1	59	0	False	2010-02-26 03:34:39.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMwareTray.exe	"C:\Program Files\VMware\VMware Tools\VMwareTray.exe" 	C:\Program Files\VMware\VMware Tools\VMwareTray.exe
+* 1116	1756	VMwareUser.exe	0x820cd5c8	4	179	0	False	2010-02-26 03:34:39.000000 UTC	N/A	\Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMwareUser.exe	"C:\Program Files\VMware\VMware Tools\VMwareUser.exe" 	C:\Program Files\VMware\VMware Tools\VMwareUser.exe

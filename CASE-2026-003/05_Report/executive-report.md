@@ -62,19 +62,6 @@ The SHA-256 hash of the original evidence was recorded before analysis.
 4\. Key Findings
 
 
-
-&#x20;Finding F-001 — RAR with embedded malicious file 
-
-
-
-A RAR archive was identified in the "Telegram Desktop" folder in the image which contained a malicious file executed via a known vulnerability.
-
-
-
-\*\*Assessment:\*\* The evidence supports that the archive originated from the Telegram Desktop application.
-
-
-
 &#x20;7.1 Finding F-001 — Compromised Adobe Acrobat Reader process.
 
 

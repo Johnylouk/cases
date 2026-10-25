@@ -178,7 +178,7 @@ Evidence indicates the presence of a compromised Adobe Acrobat Reader process.
 
 \* PID 1752 AcroRd32.exe
 
-\* PPID 1756 Firefox.exe
+\* PPID 888 Firefox.exe
 
 \* PDF.php
 
